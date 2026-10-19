@@ -1,0 +1,2001 @@
+Fecha,Hora,Comuna,Genero_Musical,Artista,Dispositivo,Duracion_Minutos,Carga_Servidor_Pct
+2026-01-01,02:00,Maipú,Electrónica,Calvin Harris,Tablet,25,50.24
+2026-01-01,10:00,Pudahuel,Pop,Dua Lipa,Smartphone,104,43.2
+2026-01-01,13:00,Maipú,Pop,Dua Lipa,Tablet,55,49.19
+2026-01-01,15:00,Providencia,Metal,Slipknot,PC/Laptop,93,62.52
+2026-01-01,17:00,Las Condes,Metal,Iron Maiden,Smart TV,70,51.34
+2026-01-02,01:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smart TV,72,27.77
+2026-01-02,14:00,Las Condes,Alternativo/Latino,Mon Laferte,Tablet,19,40.77
+2026-01-02,15:00,Las Condes,Alternativo/Latino,Coldplay,Smartphone,12,58.01
+2026-01-02,16:00,Las Condes,Pop,Dua Lipa,Smart TV,89,39.86
+2026-01-02,17:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,58,30.13
+2026-01-02,19:00,La Florida,Alternativo/Latino,Mon Laferte,Smartphone,99,79.89
+2026-01-02,21:00,Las Condes,Pop,The Weeknd,Tablet,117,74.22
+2026-01-03,03:00,Providencia,Electrónica,Calvin Harris,PC/Laptop,63,48.89
+2026-01-03,13:00,Santiago Centro,Metal,Metallica,Smartphone,54,21.98
+2026-01-03,14:00,La Florida,Metal,Iron Maiden,Tablet,107,51.73
+2026-01-03,17:00,Pudahuel,Pop,Dua Lipa,Smartphone,77,32.84
+2026-01-03,19:00,Pudahuel,Electrónica,Daft Punk,Smartphone,28,65.2
+2026-01-03,19:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smart TV,119,56.1
+2026-01-03,20:00,La Florida,Electrónica,Daft Punk,Tablet,98,83.53
+2026-01-03,20:00,Las Condes,Alternativo/Latino,Los Bunkers,PC/Laptop,17,72.57
+2026-01-03,21:00,Pudahuel,Pop,The Weeknd,PC/Laptop,79,62.69
+2026-01-03,21:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,67,46.51
+2026-01-03,21:00,Maipú,Pop,Billie Eilish,Smartphone,73,82.54
+2026-01-03,21:00,Santiago Centro,Alternativo/Latino,Los Bunkers,PC/Laptop,99,64.79
+2026-01-03,22:00,Providencia,Metal,Iron Maiden,Tablet,97,63.94
+2026-01-03,22:00,La Florida,Electrónica,Daft Punk,Tablet,55,68.73
+2026-01-03,23:00,Las Condes,Metal,Metallica,PC/Laptop,102,25.64
+2026-01-04,00:00,La Florida,Pop,Billie Eilish,Tablet,29,35.43
+2026-01-04,12:00,Las Condes,Metal,Slipknot,Smartphone,101,22.07
+2026-01-04,14:00,Maipú,Electrónica,Avicii,Smartphone,60,30.6
+2026-01-04,15:00,Santiago Centro,Electrónica,Daft Punk,Tablet,120,43.2
+2026-01-04,15:00,Pudahuel,Metal,Iron Maiden,Tablet,41,38.55
+2026-01-04,15:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,36,29.0
+2026-01-04,17:00,La Florida,Alternativo/Latino,Mon Laferte,Smart TV,15,35.07
+2026-01-04,18:00,La Florida,Pop,Billie Eilish,PC/Laptop,108,82.69
+2026-01-04,23:00,La Florida,Pop,Billie Eilish,Smart TV,102,37.5
+2026-01-05,13:00,Providencia,Electrónica,Calvin Harris,PC/Laptop,62,50.53
+2026-01-05,16:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,17,38.14
+2026-01-05,17:00,Santiago Centro,Pop,Dua Lipa,PC/Laptop,103,46.96
+2026-01-05,21:00,Maipú,Funk,Bruno Mars,Tablet,27,85.35
+2026-01-05,21:00,Las Condes,Pop,Billie Eilish,Smart TV,25,74.52
+2026-01-05,21:00,Las Condes,Metal,Metallica,Smartphone,58,77.43
+2026-01-05,22:00,Maipú,Metal,Metallica,Smartphone,86,66.83
+2026-01-06,02:00,La Florida,Funk,Bruno Mars,Smartphone,50,38.41
+2026-01-06,07:00,Providencia,Pop,Dua Lipa,PC/Laptop,83,37.14
+2026-01-06,12:00,Maipú,Metal,Iron Maiden,Tablet,46,26.03
+2026-01-06,13:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,56,58.54
+2026-01-06,13:00,Maipú,Alternativo/Latino,Los Bunkers,Smart TV,62,43.98
+2026-01-06,15:00,Las Condes,Metal,Metallica,PC/Laptop,70,48.52
+2026-01-06,15:00,Maipú,Metal,Iron Maiden,Smartphone,108,38.05
+2026-01-06,17:00,Providencia,Electrónica,Daft Punk,PC/Laptop,84,51.88
+2026-01-06,19:00,La Florida,Pop,Dua Lipa,PC/Laptop,92,92.02
+2026-01-06,20:00,Maipú,Metal,Slipknot,Smart TV,105,71.3
+2026-01-06,20:00,Santiago Centro,Funk,Jamiroquai,Tablet,13,92.82
+2026-01-07,01:00,La Florida,Metal,Iron Maiden,Smart TV,45,44.74
+2026-01-07,09:00,Las Condes,Alternativo/Latino,Coldplay,PC/Laptop,92,39.11
+2026-01-07,14:00,Pudahuel,Metal,Iron Maiden,Smartphone,68,24.85
+2026-01-07,15:00,Pudahuel,Electrónica,Avicii,Smartphone,86,35.16
+2026-01-07,15:00,Maipú,Metal,Slipknot,Smart TV,20,58.26
+2026-01-07,16:00,Providencia,Pop,Dua Lipa,Tablet,20,28.8
+2026-01-07,18:00,Maipú,Funk,Bruno Mars,Smart TV,29,100.0
+2026-01-08,00:00,Providencia,Electrónica,Daft Punk,Tablet,37,25.7
+2026-01-08,10:00,Maipú,Metal,Iron Maiden,PC/Laptop,38,26.45
+2026-01-08,12:00,Providencia,Metal,Metallica,Smart TV,80,41.89
+2026-01-08,13:00,Providencia,Pop,Dua Lipa,Smartphone,58,37.85
+2026-01-08,14:00,Maipú,Metal,Slipknot,Tablet,16,53.31
+2026-01-08,14:00,La Florida,Funk,Bruno Mars,Smartphone,55,36.22
+2026-01-08,16:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,85,36.51
+2026-01-08,16:00,Maipú,Funk,Bruno Mars,Tablet,90,42.6
+2026-01-08,18:00,Providencia,Funk,Jamiroquai,Smart TV,37,74.01
+2026-01-08,18:00,La Florida,Electrónica,Avicii,PC/Laptop,82,80.3
+2026-01-08,19:00,Pudahuel,Funk,Jamiroquai,Smart TV,71,69.74
+2026-01-08,19:00,Providencia,Alternativo/Latino,Mon Laferte,Smartphone,40,84.24
+2026-01-08,20:00,Maipú,Electrónica,Calvin Harris,Tablet,32,86.73
+2026-01-08,20:00,Maipú,Electrónica,Calvin Harris,Smart TV,38,80.9
+2026-01-09,01:00,La Florida,Alternativo/Latino,Los Bunkers,Smart TV,52,24.36
+2026-01-09,09:00,La Florida,Electrónica,Calvin Harris,Tablet,69,71.38
+2026-01-09,12:00,Las Condes,Alternativo/Latino,Los Bunkers,PC/Laptop,25,30.28
+2026-01-09,12:00,Pudahuel,Pop,The Weeknd,Smart TV,109,46.93
+2026-01-09,14:00,Maipú,Funk,Bruno Mars,Smartphone,76,36.92
+2026-01-09,14:00,Santiago Centro,Funk,Jamiroquai,Tablet,40,45.23
+2026-01-09,15:00,La Florida,Electrónica,Daft Punk,Tablet,66,32.07
+2026-01-09,15:00,Pudahuel,Pop,The Weeknd,Smart TV,56,43.29
+2026-01-09,17:00,Las Condes,Metal,Slipknot,Tablet,57,36.25
+2026-01-09,17:00,Santiago Centro,Pop,Dua Lipa,Tablet,104,46.69
+2026-01-09,19:00,Providencia,Alternativo/Latino,Los Bunkers,Smartphone,41,71.07
+2026-01-09,21:00,Santiago Centro,Metal,Slipknot,Smart TV,31,79.96
+2026-01-10,00:00,Pudahuel,Metal,Slipknot,Smart TV,100,36.79
+2026-01-10,11:00,La Florida,Metal,Iron Maiden,PC/Laptop,90,33.22
+2026-01-10,15:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,23,33.28
+2026-01-10,15:00,Providencia,Electrónica,Daft Punk,PC/Laptop,43,38.52
+2026-01-10,15:00,Las Condes,Metal,Iron Maiden,PC/Laptop,96,38.53
+2026-01-10,17:00,Las Condes,Funk,Jamiroquai,Smart TV,41,65.8
+2026-01-10,17:00,Las Condes,Alternativo/Latino,Mon Laferte,Smart TV,102,40.15
+2026-01-10,17:00,Las Condes,Electrónica,Calvin Harris,PC/Laptop,76,33.97
+2026-01-10,18:00,Santiago Centro,Alternativo/Latino,Los Bunkers,PC/Laptop,65,88.07
+2026-01-10,18:00,Pudahuel,Pop,Billie Eilish,PC/Laptop,12,55.25
+2026-01-10,20:00,Maipú,Pop,The Weeknd,PC/Laptop,72,84.68
+2026-01-11,13:00,Providencia,Pop,The Weeknd,Tablet,35,45.37
+2026-01-11,15:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,14,44.94
+2026-01-11,16:00,La Florida,Pop,Dua Lipa,Tablet,54,37.81
+2026-01-11,19:00,Maipú,Pop,The Weeknd,Tablet,109,65.74
+2026-01-11,20:00,Providencia,Pop,Dua Lipa,Smartphone,120,89.42
+2026-01-11,20:00,Pudahuel,Pop,Billie Eilish,Smart TV,112,59.3
+2026-01-11,20:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Tablet,43,85.31
+2026-01-12,00:00,Maipú,Alternativo/Latino,Coldplay,Smart TV,68,44.19
+2026-01-12,13:00,La Florida,Funk,Bruno Mars,Smartphone,58,43.14
+2026-01-12,14:00,Pudahuel,Metal,Slipknot,PC/Laptop,52,31.73
+2026-01-12,14:00,Pudahuel,Funk,Bruno Mars,Smartphone,64,39.36
+2026-01-12,15:00,Las Condes,Electrónica,Daft Punk,Smartphone,100,43.61
+2026-01-12,16:00,Santiago Centro,Alternativo/Latino,Coldplay,PC/Laptop,116,28.93
+2026-01-12,16:00,La Florida,Alternativo/Latino,Coldplay,PC/Laptop,112,41.47
+2026-01-12,16:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smart TV,12,57.95
+2026-01-12,17:00,Pudahuel,Electrónica,Daft Punk,Smart TV,116,31.57
+2026-01-12,18:00,Maipú,Pop,Dua Lipa,Smart TV,75,73.56
+2026-01-12,18:00,Providencia,Funk,Jamiroquai,PC/Laptop,106,87.78
+2026-01-12,18:00,La Florida,Pop,Billie Eilish,Smart TV,92,62.17
+2026-01-12,19:00,Maipú,Pop,Billie Eilish,PC/Laptop,48,74.89
+2026-01-12,19:00,Pudahuel,Alternativo/Latino,Coldplay,Smartphone,75,76.92
+2026-01-12,20:00,La Florida,Alternativo/Latino,Mon Laferte,Smart TV,69,83.88
+2026-01-13,03:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,16,36.37
+2026-01-13,12:00,Providencia,Funk,Jamiroquai,Smartphone,110,45.72
+2026-01-13,13:00,Las Condes,Metal,Slipknot,Tablet,61,40.62
+2026-01-13,13:00,La Florida,Funk,"Earth, Wind & Fire",Smartphone,38,56.43
+2026-01-13,15:00,Maipú,Alternativo/Latino,Mon Laferte,PC/Laptop,92,45.86
+2026-01-13,16:00,Maipú,Electrónica,Calvin Harris,Tablet,31,25.94
+2026-01-13,17:00,Maipú,Alternativo/Latino,Coldplay,Tablet,73,48.38
+2026-01-13,17:00,Santiago Centro,Metal,Iron Maiden,Smart TV,115,56.07
+2026-01-13,18:00,Santiago Centro,Pop,Dua Lipa,PC/Laptop,116,52.81
+2026-01-13,21:00,Pudahuel,Metal,Metallica,Smart TV,56,87.27
+2026-01-13,22:00,Pudahuel,Electrónica,Calvin Harris,Smart TV,96,80.84
+2026-01-14,00:00,Maipú,Funk,Bruno Mars,Smartphone,105,37.51
+2026-01-14,08:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,101,29.9
+2026-01-14,10:00,Santiago Centro,Pop,Dua Lipa,Smart TV,45,31.1
+2026-01-14,12:00,La Florida,Alternativo/Latino,Los Bunkers,Smartphone,70,22.39
+2026-01-14,13:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,109,44.49
+2026-01-14,15:00,Las Condes,Electrónica,Avicii,PC/Laptop,91,48.5
+2026-01-14,15:00,Santiago Centro,Alternativo/Latino,Coldplay,Smart TV,23,35.13
+2026-01-14,18:00,Pudahuel,Electrónica,Calvin Harris,Tablet,72,89.1
+2026-01-14,18:00,La Florida,Metal,Slipknot,Tablet,111,77.52
+2026-01-14,21:00,La Florida,Pop,Billie Eilish,Tablet,103,78.29
+2026-01-14,21:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Tablet,68,63.52
+2026-01-14,23:00,Santiago Centro,Pop,Dua Lipa,Smartphone,47,37.91
+2026-01-14,23:00,Providencia,Electrónica,Calvin Harris,Tablet,46,34.0
+2026-01-15,11:00,La Florida,Metal,Metallica,PC/Laptop,92,30.76
+2026-01-15,16:00,Las Condes,Electrónica,Avicii,Smart TV,81,44.62
+2026-01-15,17:00,Providencia,Metal,Slipknot,Tablet,68,57.95
+2026-01-15,18:00,Santiago Centro,Electrónica,Daft Punk,Smartphone,88,91.76
+2026-01-15,18:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,114,75.46
+2026-01-15,18:00,Las Condes,Pop,Dua Lipa,Tablet,61,65.96
+2026-01-15,19:00,Las Condes,Metal,Metallica,Smart TV,100,83.16
+2026-01-15,19:00,Santiago Centro,Funk,Jamiroquai,Smart TV,28,65.12
+2026-01-15,19:00,Las Condes,Electrónica,Avicii,Smartphone,12,75.87
+2026-01-15,21:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smartphone,71,70.79
+2026-01-15,22:00,La Florida,Pop,The Weeknd,Tablet,21,70.29
+2026-01-16,02:00,Providencia,Alternativo/Latino,Coldplay,Tablet,83,41.37
+2026-01-16,02:00,La Florida,Electrónica,Daft Punk,Smartphone,55,29.32
+2026-01-16,12:00,La Florida,Metal,Slipknot,Tablet,73,39.08
+2026-01-16,16:00,Pudahuel,Funk,Jamiroquai,Smart TV,62,50.44
+2026-01-16,16:00,La Florida,Electrónica,Calvin Harris,Smartphone,81,36.82
+2026-01-16,17:00,Santiago Centro,Pop,The Weeknd,Smartphone,22,47.44
+2026-01-16,18:00,La Florida,Metal,Slipknot,PC/Laptop,81,75.3
+2026-01-16,18:00,Las Condes,Alternativo/Latino,Mon Laferte,Tablet,64,87.29
+2026-01-16,19:00,Providencia,Electrónica,Avicii,Smart TV,117,67.67
+2026-01-16,21:00,Las Condes,Pop,Dua Lipa,Smart TV,80,80.53
+2026-01-17,00:00,Santiago Centro,Electrónica,Daft Punk,Smartphone,95,47.42
+2026-01-17,11:00,Pudahuel,Metal,Metallica,PC/Laptop,34,29.76
+2026-01-17,12:00,La Florida,Funk,Bruno Mars,Smart TV,93,46.7
+2026-01-17,13:00,Las Condes,Funk,Jamiroquai,Tablet,115,25.6
+2026-01-17,13:00,Pudahuel,Electrónica,Calvin Harris,Tablet,103,38.06
+2026-01-17,16:00,Providencia,Funk,Bruno Mars,Tablet,77,50.57
+2026-01-17,17:00,La Florida,Alternativo/Latino,Coldplay,PC/Laptop,77,22.31
+2026-01-17,18:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smartphone,73,72.51
+2026-01-17,20:00,Providencia,Funk,"Earth, Wind & Fire",Smartphone,67,78.11
+2026-01-17,20:00,Santiago Centro,Metal,Slipknot,Tablet,110,61.34
+2026-01-18,12:00,Providencia,Funk,Bruno Mars,Smartphone,31,42.19
+2026-01-18,13:00,Santiago Centro,Electrónica,Avicii,Tablet,96,46.57
+2026-01-18,14:00,Santiago Centro,Pop,Billie Eilish,Tablet,52,50.86
+2026-01-18,14:00,Providencia,Metal,Slipknot,Tablet,32,26.19
+2026-01-18,15:00,Maipú,Metal,Iron Maiden,Smartphone,91,48.62
+2026-01-18,16:00,Providencia,Electrónica,Daft Punk,PC/Laptop,47,27.45
+2026-01-18,18:00,Providencia,Metal,Metallica,PC/Laptop,49,63.28
+2026-01-18,19:00,Maipú,Electrónica,Calvin Harris,Tablet,52,93.38
+2026-01-18,21:00,Las Condes,Metal,Metallica,Tablet,80,88.56
+2026-01-18,21:00,Pudahuel,Funk,Bruno Mars,Tablet,80,67.43
+2026-01-18,21:00,Providencia,Electrónica,Daft Punk,Smartphone,96,68.5
+2026-01-18,23:00,Maipú,Electrónica,Calvin Harris,PC/Laptop,66,25.98
+2026-01-19,00:00,La Florida,Funk,"Earth, Wind & Fire",Smart TV,105,46.65
+2026-01-19,04:00,Pudahuel,Funk,"Earth, Wind & Fire",Smartphone,79,34.69
+2026-01-19,14:00,Providencia,Alternativo/Latino,Coldplay,Smartphone,65,46.51
+2026-01-19,17:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smartphone,24,30.06
+2026-01-19,19:00,Pudahuel,Metal,Iron Maiden,PC/Laptop,50,79.68
+2026-01-19,20:00,La Florida,Metal,Metallica,Tablet,101,70.25
+2026-01-19,20:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smart TV,110,86.1
+2026-01-19,21:00,Providencia,Metal,Slipknot,Tablet,21,73.15
+2026-01-19,22:00,Pudahuel,Funk,Bruno Mars,Smartphone,19,82.52
+2026-01-20,00:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,102,30.57
+2026-01-20,13:00,Pudahuel,Pop,Billie Eilish,Tablet,113,18.47
+2026-01-20,15:00,La Florida,Electrónica,Avicii,Smart TV,65,37.69
+2026-01-20,18:00,Providencia,Electrónica,Daft Punk,Smart TV,45,86.49
+2026-01-20,20:00,La Florida,Pop,Billie Eilish,Tablet,27,79.48
+2026-01-20,20:00,La Florida,Electrónica,Calvin Harris,PC/Laptop,72,63.61
+2026-01-20,21:00,Santiago Centro,Pop,The Weeknd,Smartphone,94,65.78
+2026-01-21,00:00,Las Condes,Alternativo/Latino,Mon Laferte,PC/Laptop,70,53.4
+2026-01-21,14:00,Las Condes,Electrónica,Avicii,Smart TV,83,25.88
+2026-01-21,14:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,26,25.78
+2026-01-21,14:00,Providencia,Metal,Slipknot,Smart TV,46,44.07
+2026-01-21,15:00,Maipú,Alternativo/Latino,Coldplay,Tablet,76,37.28
+2026-01-21,16:00,Providencia,Metal,Iron Maiden,Smartphone,23,35.21
+2026-01-21,18:00,Providencia,Alternativo/Latino,Los Bunkers,Smart TV,43,99.63
+2026-01-21,18:00,Las Condes,Alternativo/Latino,Mon Laferte,PC/Laptop,80,65.46
+2026-01-21,19:00,Santiago Centro,Funk,Bruno Mars,Smart TV,105,83.9
+2026-01-21,20:00,Maipú,Metal,Metallica,Tablet,98,100.0
+2026-01-21,20:00,Las Condes,Pop,Dua Lipa,Smart TV,87,81.28
+2026-01-21,22:00,Providencia,Electrónica,Avicii,Smart TV,38,77.54
+2026-01-21,22:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,75,69.36
+2026-01-22,02:00,Maipú,Metal,Iron Maiden,Tablet,114,52.91
+2026-01-22,08:00,Santiago Centro,Metal,Metallica,Tablet,90,62.91
+2026-01-22,10:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,89,30.7
+2026-01-22,12:00,Las Condes,Metal,Metallica,PC/Laptop,100,51.44
+2026-01-22,15:00,Las Condes,Pop,The Weeknd,PC/Laptop,91,39.44
+2026-01-22,15:00,Providencia,Electrónica,Daft Punk,Tablet,58,37.7
+2026-01-22,15:00,Providencia,Electrónica,Calvin Harris,Tablet,106,42.24
+2026-01-22,15:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,110,35.97
+2026-01-22,15:00,Santiago Centro,Metal,Slipknot,Smartphone,111,43.63
+2026-01-22,16:00,Providencia,Alternativo/Latino,Los Bunkers,Smartphone,80,46.03
+2026-01-22,18:00,Santiago Centro,Pop,The Weeknd,PC/Laptop,113,75.41
+2026-01-22,19:00,Maipú,Electrónica,Calvin Harris,PC/Laptop,116,77.24
+2026-01-22,19:00,Santiago Centro,Funk,Bruno Mars,Smart TV,39,80.7
+2026-01-22,21:00,La Florida,Funk,Bruno Mars,PC/Laptop,27,78.4
+2026-01-22,22:00,La Florida,Funk,Jamiroquai,Tablet,87,54.27
+2026-01-22,22:00,Maipú,Alternativo/Latino,Mon Laferte,Smart TV,42,86.7
+2026-01-23,00:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,23,41.98
+2026-01-23,00:00,Pudahuel,Pop,Dua Lipa,PC/Laptop,30,41.04
+2026-01-23,13:00,La Florida,Alternativo/Latino,Mon Laferte,Smartphone,32,32.32
+2026-01-23,18:00,Pudahuel,Electrónica,Calvin Harris,Tablet,77,74.03
+2026-01-23,19:00,Santiago Centro,Metal,Slipknot,Smartphone,11,63.52
+2026-01-23,20:00,Providencia,Pop,Billie Eilish,Smart TV,65,85.58
+2026-01-24,02:00,La Florida,Funk,"Earth, Wind & Fire",Smartphone,76,40.01
+2026-01-24,14:00,Pudahuel,Pop,Dua Lipa,Smartphone,105,26.17
+2026-01-24,15:00,Las Condes,Pop,The Weeknd,Smartphone,42,44.69
+2026-01-24,17:00,La Florida,Funk,Bruno Mars,Smart TV,118,40.16
+2026-01-24,18:00,La Florida,Pop,Billie Eilish,PC/Laptop,21,55.31
+2026-01-24,19:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,86,79.72
+2026-01-24,22:00,Pudahuel,Funk,Jamiroquai,Smartphone,53,66.23
+2026-01-25,11:00,Las Condes,Funk,Jamiroquai,Smartphone,68,42.58
+2026-01-25,14:00,Providencia,Metal,Slipknot,Smart TV,102,35.63
+2026-01-25,15:00,Pudahuel,Electrónica,Calvin Harris,Tablet,41,25.93
+2026-01-25,16:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,33,38.49
+2026-01-25,17:00,Las Condes,Pop,Billie Eilish,PC/Laptop,98,28.42
+2026-01-25,17:00,Providencia,Funk,"Earth, Wind & Fire",Smartphone,48,44.77
+2026-01-25,17:00,Santiago Centro,Funk,Jamiroquai,Smartphone,25,38.94
+2026-01-25,20:00,La Florida,Pop,Dua Lipa,Tablet,14,88.69
+2026-01-25,21:00,Providencia,Electrónica,Calvin Harris,Tablet,54,71.33
+2026-01-25,21:00,Las Condes,Metal,Iron Maiden,Tablet,92,73.78
+2026-01-25,22:00,Pudahuel,Metal,Iron Maiden,Smartphone,26,99.4
+2026-01-25,23:00,Las Condes,Electrónica,Avicii,Tablet,96,58.58
+2026-01-26,01:00,Las Condes,Metal,Metallica,Smartphone,68,71.1
+2026-01-26,10:00,La Florida,Metal,Metallica,PC/Laptop,114,47.48
+2026-01-26,14:00,La Florida,Electrónica,Daft Punk,PC/Laptop,14,38.74
+2026-01-26,14:00,Maipú,Funk,Jamiroquai,Tablet,38,35.92
+2026-01-26,14:00,Pudahuel,Funk,Bruno Mars,Tablet,102,39.65
+2026-01-26,15:00,Providencia,Metal,Metallica,Smart TV,87,45.73
+2026-01-26,15:00,Las Condes,Metal,Iron Maiden,PC/Laptop,33,47.21
+2026-01-26,15:00,Providencia,Funk,Jamiroquai,Smartphone,115,58.9
+2026-01-26,16:00,Providencia,Electrónica,Avicii,Tablet,22,54.53
+2026-01-26,16:00,Santiago Centro,Metal,Metallica,Tablet,99,31.15
+2026-01-26,16:00,La Florida,Pop,Billie Eilish,Tablet,96,43.01
+2026-01-26,17:00,Maipú,Metal,Iron Maiden,Smartphone,30,50.99
+2026-01-26,19:00,Maipú,Electrónica,Calvin Harris,PC/Laptop,25,77.51
+2026-01-26,19:00,Providencia,Metal,Iron Maiden,Smartphone,110,69.49
+2026-01-26,22:00,La Florida,Pop,Dua Lipa,PC/Laptop,98,70.31
+2026-01-27,07:00,La Florida,Pop,The Weeknd,PC/Laptop,30,40.03
+2026-01-27,12:00,La Florida,Funk,"Earth, Wind & Fire",Tablet,104,57.03
+2026-01-27,13:00,Maipú,Pop,Billie Eilish,Smart TV,30,37.17
+2026-01-27,15:00,Santiago Centro,Electrónica,Daft Punk,Tablet,103,44.32
+2026-01-27,16:00,Providencia,Pop,Dua Lipa,Smartphone,111,31.37
+2026-01-27,16:00,Las Condes,Electrónica,Calvin Harris,Tablet,31,39.36
+2026-01-27,18:00,Pudahuel,Electrónica,Calvin Harris,Smart TV,27,74.37
+2026-01-27,19:00,Maipú,Electrónica,Daft Punk,PC/Laptop,87,70.79
+2026-01-27,19:00,Maipú,Alternativo/Latino,Los Bunkers,Tablet,92,72.41
+2026-01-27,20:00,La Florida,Funk,"Earth, Wind & Fire",PC/Laptop,102,89.87
+2026-01-27,22:00,Pudahuel,Pop,Dua Lipa,Smartphone,13,74.49
+2026-01-28,10:00,Santiago Centro,Metal,Metallica,Smartphone,68,31.4
+2026-01-28,11:00,La Florida,Alternativo/Latino,Coldplay,Smart TV,73,51.13
+2026-01-28,14:00,Pudahuel,Pop,The Weeknd,Tablet,88,44.24
+2026-01-28,14:00,Santiago Centro,Electrónica,Avicii,PC/Laptop,89,44.24
+2026-01-28,15:00,Providencia,Metal,Iron Maiden,Smart TV,107,41.22
+2026-01-28,15:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,62,52.36
+2026-01-28,15:00,Pudahuel,Metal,Iron Maiden,PC/Laptop,115,32.01
+2026-01-28,15:00,Providencia,Funk,Jamiroquai,PC/Laptop,76,44.88
+2026-01-28,16:00,Maipú,Electrónica,Daft Punk,Tablet,52,23.31
+2026-01-28,16:00,La Florida,Pop,Billie Eilish,Smartphone,63,50.89
+2026-01-28,18:00,La Florida,Alternativo/Latino,Mon Laferte,Smart TV,46,69.97
+2026-01-28,18:00,Providencia,Metal,Metallica,Tablet,16,78.85
+2026-01-28,18:00,Santiago Centro,Alternativo/Latino,Coldplay,Smartphone,107,66.69
+2026-01-28,18:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,69,79.47
+2026-01-28,19:00,Providencia,Alternativo/Latino,Mon Laferte,Smartphone,60,86.97
+2026-01-28,19:00,Maipú,Alternativo/Latino,Mon Laferte,Smartphone,85,78.8
+2026-01-28,21:00,La Florida,Metal,Slipknot,PC/Laptop,76,70.06
+2026-01-29,11:00,Las Condes,Metal,Slipknot,PC/Laptop,94,45.14
+2026-01-29,11:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,30,21.2
+2026-01-29,12:00,Maipú,Metal,Slipknot,Tablet,86,32.8
+2026-01-29,13:00,Pudahuel,Metal,Metallica,PC/Laptop,71,36.04
+2026-01-29,14:00,Pudahuel,Pop,The Weeknd,PC/Laptop,52,20.92
+2026-01-29,18:00,Maipú,Funk,Bruno Mars,Smartphone,77,61.66
+2026-01-29,19:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smartphone,52,75.2
+2026-01-29,20:00,Santiago Centro,Alternativo/Latino,Coldplay,Smart TV,15,58.38
+2026-01-29,20:00,Santiago Centro,Pop,Billie Eilish,Smartphone,66,59.97
+2026-01-30,02:00,La Florida,Funk,Bruno Mars,Smart TV,20,37.53
+2026-01-30,03:00,Santiago Centro,Alternativo/Latino,Coldplay,Smartphone,107,39.42
+2026-01-30,11:00,Maipú,Metal,Slipknot,Tablet,72,43.22
+2026-01-30,12:00,La Florida,Metal,Iron Maiden,Smart TV,53,51.61
+2026-01-30,12:00,Pudahuel,Metal,Slipknot,Tablet,68,32.91
+2026-01-30,13:00,Pudahuel,Metal,Iron Maiden,Tablet,81,46.16
+2026-01-30,16:00,Santiago Centro,Funk,Bruno Mars,Smart TV,86,38.04
+2026-01-30,16:00,La Florida,Metal,Iron Maiden,Tablet,72,37.87
+2026-01-30,17:00,Santiago Centro,Metal,Metallica,Smart TV,14,37.0
+2026-01-30,17:00,Providencia,Pop,Dua Lipa,Smart TV,100,40.93
+2026-01-30,18:00,Las Condes,Metal,Slipknot,PC/Laptop,44,80.95
+2026-01-30,18:00,Santiago Centro,Metal,Slipknot,Tablet,35,84.96
+2026-01-30,19:00,Santiago Centro,Alternativo/Latino,Coldplay,Tablet,96,66.54
+2026-01-30,21:00,Pudahuel,Pop,Dua Lipa,PC/Laptop,12,66.72
+2026-01-31,00:00,La Florida,Metal,Iron Maiden,Smartphone,105,27.62
+2026-01-31,10:00,Las Condes,Metal,Slipknot,Smartphone,89,39.73
+2026-01-31,14:00,Pudahuel,Funk,Bruno Mars,Tablet,32,36.15
+2026-01-31,15:00,La Florida,Electrónica,Calvin Harris,PC/Laptop,38,46.33
+2026-01-31,18:00,Providencia,Metal,Iron Maiden,PC/Laptop,101,91.25
+2026-01-31,19:00,La Florida,Funk,Jamiroquai,PC/Laptop,60,69.98
+2026-01-31,19:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,99,81.07
+2026-01-31,19:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,118,61.01
+2026-01-31,19:00,Maipú,Metal,Slipknot,PC/Laptop,98,79.63
+2026-01-31,20:00,Santiago Centro,Electrónica,Avicii,Tablet,37,71.9
+2026-01-31,21:00,Santiago Centro,Metal,Metallica,Smart TV,24,68.83
+2026-01-31,22:00,Las Condes,Electrónica,Daft Punk,Tablet,49,81.09
+2026-02-01,01:00,Providencia,Pop,The Weeknd,PC/Laptop,92,40.35
+2026-02-01,12:00,Providencia,Electrónica,Avicii,Tablet,102,45.63
+2026-02-01,15:00,Providencia,Pop,Billie Eilish,Smart TV,38,32.9
+2026-02-01,16:00,Pudahuel,Pop,Billie Eilish,Tablet,50,44.16
+2026-02-01,19:00,Santiago Centro,Metal,Slipknot,Tablet,106,89.51
+2026-02-01,19:00,Maipú,Alternativo/Latino,Los Bunkers,Smart TV,85,66.15
+2026-02-01,21:00,Las Condes,Electrónica,Daft Punk,Smartphone,63,93.3
+2026-02-01,22:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,107,71.04
+2026-02-01,23:00,Las Condes,Alternativo/Latino,Coldplay,Tablet,114,41.97
+2026-02-02,08:00,La Florida,Electrónica,Daft Punk,Tablet,47,33.42
+2026-02-02,11:00,Pudahuel,Electrónica,Calvin Harris,Smartphone,55,41.85
+2026-02-02,17:00,Las Condes,Metal,Metallica,PC/Laptop,85,37.79
+2026-02-02,17:00,Maipú,Funk,Bruno Mars,Smart TV,16,42.12
+2026-02-02,18:00,Pudahuel,Metal,Slipknot,PC/Laptop,40,67.43
+2026-02-02,19:00,Pudahuel,Electrónica,Daft Punk,Smartphone,69,99.93
+2026-02-02,19:00,Pudahuel,Funk,Bruno Mars,Smart TV,74,67.48
+2026-02-02,21:00,La Florida,Metal,Metallica,Smartphone,48,80.07
+2026-02-02,22:00,Santiago Centro,Pop,Dua Lipa,Smartphone,10,89.48
+2026-02-02,23:00,Maipú,Funk,Bruno Mars,Smart TV,107,25.93
+2026-02-03,01:00,Pudahuel,Pop,Billie Eilish,Tablet,115,39.39
+2026-02-03,02:00,Maipú,Pop,The Weeknd,Smart TV,87,40.07
+2026-02-03,13:00,Santiago Centro,Metal,Iron Maiden,Smartphone,12,46.0
+2026-02-03,13:00,Pudahuel,Funk,Bruno Mars,Smartphone,23,36.13
+2026-02-03,16:00,Providencia,Metal,Iron Maiden,Smartphone,57,41.58
+2026-02-03,17:00,La Florida,Electrónica,Calvin Harris,Smart TV,106,28.31
+2026-02-03,17:00,La Florida,Pop,Billie Eilish,Smartphone,63,32.53
+2026-02-03,17:00,Las Condes,Electrónica,Calvin Harris,Smart TV,11,39.57
+2026-02-03,18:00,Pudahuel,Funk,Bruno Mars,Smart TV,31,89.78
+2026-02-03,21:00,Providencia,Pop,Billie Eilish,Tablet,21,77.81
+2026-02-03,22:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,74,69.23
+2026-02-04,01:00,Santiago Centro,Pop,Dua Lipa,Tablet,81,52.39
+2026-02-04,12:00,Santiago Centro,Pop,Dua Lipa,PC/Laptop,37,17.04
+2026-02-04,12:00,Maipú,Funk,Jamiroquai,Smartphone,67,43.51
+2026-02-04,14:00,La Florida,Alternativo/Latino,Los Bunkers,Smart TV,110,33.79
+2026-02-04,16:00,Santiago Centro,Funk,Jamiroquai,Smartphone,46,31.09
+2026-02-04,17:00,Santiago Centro,Funk,"Earth, Wind & Fire",PC/Laptop,31,38.78
+2026-02-04,17:00,Las Condes,Electrónica,Daft Punk,Tablet,73,41.83
+2026-02-04,18:00,Pudahuel,Funk,Jamiroquai,Smart TV,35,74.76
+2026-02-04,18:00,Providencia,Metal,Iron Maiden,Smart TV,63,59.84
+2026-02-04,20:00,Maipú,Funk,Bruno Mars,Tablet,62,64.47
+2026-02-04,20:00,Santiago Centro,Pop,The Weeknd,PC/Laptop,115,90.28
+2026-02-04,22:00,Las Condes,Funk,Jamiroquai,Smart TV,38,83.72
+2026-02-04,22:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,17,61.67
+2026-02-05,01:00,La Florida,Pop,The Weeknd,Smart TV,16,46.41
+2026-02-05,12:00,Maipú,Funk,Jamiroquai,Smart TV,80,57.55
+2026-02-05,13:00,Pudahuel,Funk,Bruno Mars,PC/Laptop,63,42.47
+2026-02-05,14:00,Las Condes,Alternativo/Latino,Los Bunkers,PC/Laptop,120,27.42
+2026-02-05,14:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smart TV,99,28.86
+2026-02-05,15:00,Providencia,Metal,Metallica,Smartphone,75,26.8
+2026-02-05,15:00,Las Condes,Pop,Billie Eilish,PC/Laptop,67,22.93
+2026-02-05,16:00,La Florida,Pop,Billie Eilish,Tablet,54,52.48
+2026-02-05,16:00,Maipú,Pop,The Weeknd,Smartphone,76,43.83
+2026-02-05,17:00,Las Condes,Funk,Jamiroquai,Smartphone,120,36.99
+2026-02-05,17:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Tablet,108,44.66
+2026-02-05,23:00,Pudahuel,Pop,Billie Eilish,Smart TV,84,26.58
+2026-02-06,00:00,Maipú,Funk,Bruno Mars,Smart TV,21,40.74
+2026-02-06,07:00,Santiago Centro,Pop,Billie Eilish,Smart TV,50,49.34
+2026-02-06,14:00,Pudahuel,Pop,Billie Eilish,Smart TV,86,60.92
+2026-02-06,15:00,Las Condes,Funk,Jamiroquai,PC/Laptop,18,44.89
+2026-02-06,16:00,Santiago Centro,Funk,Jamiroquai,Smart TV,40,56.69
+2026-02-06,17:00,Pudahuel,Funk,Jamiroquai,Tablet,92,37.6
+2026-02-06,18:00,Las Condes,Electrónica,Calvin Harris,Tablet,33,68.4
+2026-02-06,18:00,Santiago Centro,Alternativo/Latino,Mon Laferte,PC/Laptop,78,100.0
+2026-02-06,18:00,Providencia,Pop,Dua Lipa,PC/Laptop,77,61.63
+2026-02-06,18:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,26,97.13
+2026-02-06,20:00,Las Condes,Funk,Jamiroquai,PC/Laptop,104,65.22
+2026-02-06,20:00,Maipú,Alternativo/Latino,Los Bunkers,Tablet,74,84.73
+2026-02-06,20:00,Las Condes,Electrónica,Avicii,Tablet,58,82.01
+2026-02-06,22:00,Providencia,Pop,The Weeknd,Tablet,63,64.73
+2026-02-06,22:00,Las Condes,Metal,Metallica,Smart TV,91,70.02
+2026-02-07,00:00,Las Condes,Metal,Metallica,Smart TV,19,52.19
+2026-02-07,00:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,46,46.02
+2026-02-07,06:00,Providencia,Funk,Bruno Mars,PC/Laptop,17,63.08
+2026-02-07,14:00,La Florida,Pop,Dua Lipa,Tablet,62,60.9
+2026-02-07,14:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,89,57.47
+2026-02-07,15:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,24,34.24
+2026-02-07,17:00,Pudahuel,Electrónica,Calvin Harris,Smartphone,79,31.18
+2026-02-07,18:00,Providencia,Pop,Billie Eilish,PC/Laptop,97,80.47
+2026-02-07,18:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,119,80.84
+2026-02-07,20:00,Maipú,Metal,Slipknot,Smart TV,118,87.29
+2026-02-07,21:00,La Florida,Alternativo/Latino,Mon Laferte,Smart TV,18,74.24
+2026-02-07,21:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,59,72.65
+2026-02-07,22:00,La Florida,Electrónica,Daft Punk,Tablet,72,62.72
+2026-02-08,00:00,Las Condes,Metal,Metallica,Tablet,94,43.95
+2026-02-08,10:00,Providencia,Pop,Billie Eilish,Tablet,73,34.57
+2026-02-08,14:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,120,28.96
+2026-02-08,14:00,Maipú,Pop,Billie Eilish,Smart TV,69,33.32
+2026-02-08,15:00,Las Condes,Pop,Billie Eilish,Tablet,88,24.86
+2026-02-08,17:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,24,35.73
+2026-02-08,18:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,52,79.98
+2026-02-08,18:00,Pudahuel,Funk,Jamiroquai,Smart TV,101,82.71
+2026-02-08,18:00,Maipú,Alternativo/Latino,Los Bunkers,Smartphone,47,78.11
+2026-02-08,20:00,Maipú,Funk,Bruno Mars,Smart TV,86,69.52
+2026-02-09,10:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smartphone,87,27.72
+2026-02-09,14:00,Pudahuel,Funk,"Earth, Wind & Fire",PC/Laptop,41,33.46
+2026-02-09,15:00,Las Condes,Electrónica,Calvin Harris,Smartphone,49,33.37
+2026-02-09,17:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,119,33.5
+2026-02-09,19:00,La Florida,Pop,Billie Eilish,Tablet,69,95.75
+2026-02-09,19:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,45,91.54
+2026-02-09,20:00,La Florida,Metal,Metallica,Tablet,62,86.36
+2026-02-09,23:00,Pudahuel,Metal,Iron Maiden,Smartphone,109,38.82
+2026-02-10,09:00,Santiago Centro,Metal,Metallica,Smart TV,111,18.79
+2026-02-10,14:00,Las Condes,Pop,The Weeknd,Smartphone,44,21.95
+2026-02-10,14:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smart TV,34,26.48
+2026-02-10,14:00,Providencia,Alternativo/Latino,Coldplay,Tablet,49,50.54
+2026-02-10,15:00,Providencia,Pop,The Weeknd,Smart TV,74,46.12
+2026-02-10,17:00,Las Condes,Metal,Metallica,Tablet,111,30.25
+2026-02-10,17:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,104,49.53
+2026-02-10,17:00,Maipú,Alternativo/Latino,Mon Laferte,Smartphone,53,45.8
+2026-02-10,18:00,Santiago Centro,Pop,The Weeknd,Smartphone,39,73.53
+2026-02-10,18:00,La Florida,Pop,The Weeknd,Smartphone,42,66.83
+2026-02-10,18:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,50,76.97
+2026-02-10,18:00,Pudahuel,Electrónica,Avicii,Smart TV,55,77.31
+2026-02-10,20:00,Pudahuel,Funk,Jamiroquai,Smartphone,10,65.81
+2026-02-10,22:00,Pudahuel,Metal,Slipknot,Tablet,71,71.24
+2026-02-11,10:00,Santiago Centro,Metal,Iron Maiden,Smart TV,66,28.83
+2026-02-11,13:00,Santiago Centro,Pop,The Weeknd,Smartphone,49,36.65
+2026-02-11,13:00,La Florida,Funk,Bruno Mars,Smart TV,101,43.82
+2026-02-11,14:00,Santiago Centro,Funk,Bruno Mars,Tablet,46,42.44
+2026-02-11,16:00,Santiago Centro,Electrónica,Calvin Harris,PC/Laptop,41,28.98
+2026-02-11,18:00,La Florida,Pop,The Weeknd,Smartphone,53,65.27
+2026-02-11,18:00,Las Condes,Electrónica,Daft Punk,Smartphone,61,80.53
+2026-02-11,19:00,Las Condes,Alternativo/Latino,Mon Laferte,Smart TV,72,84.76
+2026-02-11,19:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,15,93.77
+2026-02-11,20:00,Maipú,Funk,Jamiroquai,PC/Laptop,104,77.97
+2026-02-11,20:00,Pudahuel,Electrónica,Daft Punk,Tablet,59,72.91
+2026-02-11,20:00,Providencia,Electrónica,Avicii,Tablet,111,93.49
+2026-02-11,22:00,Pudahuel,Metal,Metallica,PC/Laptop,116,91.85
+2026-02-11,23:00,La Florida,Metal,Iron Maiden,Smart TV,25,28.93
+2026-02-12,01:00,Providencia,Funk,Jamiroquai,Smart TV,101,48.14
+2026-02-12,02:00,Providencia,Electrónica,Daft Punk,PC/Laptop,50,38.6
+2026-02-12,12:00,La Florida,Pop,The Weeknd,Smart TV,67,37.75
+2026-02-12,17:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Tablet,37,50.04
+2026-02-12,17:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,47,42.17
+2026-02-12,18:00,Providencia,Pop,Dua Lipa,Smart TV,110,72.65
+2026-02-12,18:00,La Florida,Pop,The Weeknd,Smart TV,81,87.79
+2026-02-12,19:00,Maipú,Electrónica,Avicii,PC/Laptop,54,57.9
+2026-02-12,19:00,Santiago Centro,Metal,Slipknot,Tablet,86,88.4
+2026-02-12,19:00,Santiago Centro,Pop,The Weeknd,PC/Laptop,73,79.63
+2026-02-12,20:00,Las Condes,Pop,Billie Eilish,Smart TV,80,83.11
+2026-02-12,21:00,La Florida,Metal,Metallica,Tablet,32,75.52
+2026-02-12,22:00,Santiago Centro,Electrónica,Daft Punk,Smartphone,13,85.61
+2026-02-13,13:00,Pudahuel,Electrónica,Daft Punk,Smart TV,16,25.32
+2026-02-13,14:00,Pudahuel,Funk,"Earth, Wind & Fire",Smart TV,82,39.52
+2026-02-13,15:00,La Florida,Pop,Dua Lipa,PC/Laptop,93,57.75
+2026-02-13,17:00,La Florida,Pop,Dua Lipa,Smart TV,21,47.14
+2026-02-13,20:00,Providencia,Pop,Billie Eilish,Smartphone,109,82.35
+2026-02-13,21:00,Las Condes,Pop,The Weeknd,Smartphone,37,68.68
+2026-02-13,22:00,Las Condes,Metal,Iron Maiden,Smartphone,26,80.93
+2026-02-13,23:00,Pudahuel,Alternativo/Latino,Coldplay,PC/Laptop,13,46.95
+2026-02-14,11:00,Las Condes,Metal,Iron Maiden,Tablet,69,35.72
+2026-02-14,14:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smart TV,68,33.62
+2026-02-14,17:00,Maipú,Metal,Slipknot,Tablet,22,44.2
+2026-02-14,18:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,96,70.38
+2026-02-14,18:00,Pudahuel,Funk,"Earth, Wind & Fire",PC/Laptop,22,73.48
+2026-02-14,18:00,Santiago Centro,Funk,Jamiroquai,Tablet,14,77.69
+2026-02-14,18:00,Las Condes,Pop,Billie Eilish,Smart TV,87,100.0
+2026-02-14,18:00,La Florida,Funk,"Earth, Wind & Fire",Smartphone,35,64.72
+2026-02-14,19:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,15,72.05
+2026-02-14,20:00,Maipú,Electrónica,Calvin Harris,Tablet,70,79.63
+2026-02-14,21:00,Providencia,Alternativo/Latino,Mon Laferte,Smartphone,74,57.51
+2026-02-14,21:00,La Florida,Alternativo/Latino,Coldplay,Smart TV,35,89.73
+2026-02-15,10:00,Santiago Centro,Metal,Slipknot,Tablet,53,39.31
+2026-02-15,16:00,Pudahuel,Alternativo/Latino,Coldplay,Tablet,98,37.05
+2026-02-15,18:00,Maipú,Pop,The Weeknd,PC/Laptop,66,75.51
+2026-02-15,22:00,Las Condes,Pop,The Weeknd,Smart TV,117,84.31
+2026-02-15,22:00,Providencia,Funk,"Earth, Wind & Fire",PC/Laptop,12,89.53
+2026-02-16,00:00,Pudahuel,Funk,"Earth, Wind & Fire",PC/Laptop,50,60.06
+2026-02-16,00:00,Las Condes,Electrónica,Daft Punk,Tablet,94,48.28
+2026-02-16,01:00,Maipú,Electrónica,Calvin Harris,Tablet,90,30.52
+2026-02-16,01:00,La Florida,Funk,Jamiroquai,Smart TV,89,32.25
+2026-02-16,09:00,Pudahuel,Pop,Billie Eilish,Smart TV,37,38.38
+2026-02-16,12:00,Providencia,Alternativo/Latino,Coldplay,Tablet,59,33.5
+2026-02-16,16:00,Las Condes,Electrónica,Calvin Harris,Smartphone,20,36.29
+2026-02-16,18:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,84,72.88
+2026-02-16,20:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,67,93.47
+2026-02-16,20:00,Las Condes,Metal,Slipknot,Smart TV,34,86.93
+2026-02-16,20:00,Providencia,Metal,Metallica,PC/Laptop,82,66.66
+2026-02-16,21:00,Las Condes,Funk,Bruno Mars,Smart TV,94,87.36
+2026-02-16,22:00,Las Condes,Pop,Dua Lipa,Smartphone,28,71.66
+2026-02-17,18:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,32,79.92
+2026-02-17,19:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,61,74.26
+2026-02-17,19:00,Pudahuel,Alternativo/Latino,Coldplay,PC/Laptop,51,69.91
+2026-02-17,20:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smart TV,48,80.83
+2026-02-17,21:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,81,46.04
+2026-02-17,21:00,Santiago Centro,Electrónica,Calvin Harris,PC/Laptop,14,72.1
+2026-02-17,21:00,Santiago Centro,Electrónica,Calvin Harris,Smartphone,91,83.87
+2026-02-17,22:00,Maipú,Metal,Metallica,Smart TV,96,71.64
+2026-02-17,22:00,Providencia,Electrónica,Daft Punk,Smartphone,65,78.8
+2026-02-18,15:00,Las Condes,Electrónica,Avicii,Tablet,90,37.87
+2026-02-18,16:00,Santiago Centro,Metal,Metallica,Smartphone,105,31.98
+2026-02-18,16:00,Santiago Centro,Funk,Jamiroquai,Smart TV,72,37.2
+2026-02-18,17:00,Las Condes,Electrónica,Avicii,PC/Laptop,90,49.72
+2026-02-18,17:00,La Florida,Pop,Billie Eilish,Tablet,88,41.47
+2026-02-18,17:00,Providencia,Alternativo/Latino,Coldplay,PC/Laptop,72,44.87
+2026-02-18,20:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,63,66.2
+2026-02-18,20:00,Maipú,Pop,Billie Eilish,PC/Laptop,14,77.89
+2026-02-18,21:00,Providencia,Metal,Iron Maiden,Smart TV,98,67.09
+2026-02-19,00:00,La Florida,Pop,Billie Eilish,Smartphone,112,22.52
+2026-02-19,11:00,Las Condes,Pop,The Weeknd,Tablet,77,52.63
+2026-02-19,13:00,La Florida,Metal,Metallica,PC/Laptop,79,54.82
+2026-02-19,13:00,Pudahuel,Pop,Billie Eilish,Smartphone,85,48.35
+2026-02-19,14:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,31,43.24
+2026-02-19,17:00,Maipú,Pop,Billie Eilish,Smartphone,68,42.83
+2026-02-19,18:00,Santiago Centro,Funk,Jamiroquai,Smartphone,33,71.47
+2026-02-19,19:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,48,68.77
+2026-02-19,21:00,Las Condes,Metal,Slipknot,Smart TV,55,59.54
+2026-02-19,23:00,La Florida,Pop,Billie Eilish,PC/Laptop,108,37.74
+2026-02-20,14:00,Maipú,Metal,Metallica,Smart TV,34,56.28
+2026-02-20,15:00,Pudahuel,Metal,Iron Maiden,Smartphone,12,41.78
+2026-02-20,18:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,10,67.3
+2026-02-20,18:00,Santiago Centro,Pop,The Weeknd,Smartphone,12,86.62
+2026-02-20,20:00,Las Condes,Metal,Iron Maiden,PC/Laptop,55,69.67
+2026-02-20,22:00,La Florida,Pop,Dua Lipa,Smartphone,96,73.42
+2026-02-21,03:00,Las Condes,Metal,Iron Maiden,Smartphone,92,41.29
+2026-02-21,12:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,94,48.13
+2026-02-21,13:00,Maipú,Metal,Iron Maiden,PC/Laptop,39,34.08
+2026-02-21,16:00,Providencia,Pop,Dua Lipa,Smart TV,98,42.66
+2026-02-21,17:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,109,42.8
+2026-02-21,17:00,Providencia,Funk,Jamiroquai,PC/Laptop,116,32.44
+2026-02-21,18:00,Pudahuel,Funk,Jamiroquai,Smartphone,14,74.91
+2026-02-21,18:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,10,85.24
+2026-02-21,18:00,Santiago Centro,Funk,Jamiroquai,Smart TV,60,84.04
+2026-02-21,19:00,Providencia,Electrónica,Calvin Harris,PC/Laptop,38,67.86
+2026-02-21,21:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,73,74.61
+2026-02-21,22:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,103,74.61
+2026-02-22,17:00,La Florida,Electrónica,Daft Punk,Smart TV,60,43.02
+2026-02-22,17:00,La Florida,Electrónica,Calvin Harris,Smart TV,65,34.52
+2026-02-22,18:00,Las Condes,Electrónica,Calvin Harris,Tablet,68,58.98
+2026-02-22,18:00,Providencia,Pop,The Weeknd,Tablet,34,90.89
+2026-02-22,22:00,Santiago Centro,Pop,Dua Lipa,Smart TV,21,59.77
+2026-02-23,10:00,Santiago Centro,Pop,The Weeknd,Tablet,26,47.6
+2026-02-23,11:00,Las Condes,Metal,Slipknot,Tablet,12,47.6
+2026-02-23,13:00,La Florida,Electrónica,Avicii,Smartphone,87,43.76
+2026-02-23,13:00,Santiago Centro,Funk,Bruno Mars,Smart TV,18,37.56
+2026-02-23,14:00,Providencia,Electrónica,Calvin Harris,Tablet,15,45.35
+2026-02-23,14:00,La Florida,Pop,Billie Eilish,PC/Laptop,10,38.18
+2026-02-23,15:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,52,39.18
+2026-02-23,17:00,Santiago Centro,Funk,Jamiroquai,Smart TV,113,28.05
+2026-02-23,17:00,La Florida,Funk,Bruno Mars,Smart TV,10,43.96
+2026-02-23,19:00,La Florida,Metal,Slipknot,Smartphone,55,82.82
+2026-02-23,19:00,La Florida,Electrónica,Daft Punk,Tablet,92,76.9
+2026-02-23,19:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,91,76.48
+2026-02-23,20:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,79,80.92
+2026-02-23,21:00,La Florida,Metal,Slipknot,Smartphone,120,72.77
+2026-02-23,21:00,Las Condes,Pop,Billie Eilish,Smart TV,90,82.61
+2026-02-23,23:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,39,17.83
+2026-02-24,00:00,Providencia,Electrónica,Calvin Harris,Smart TV,53,31.53
+2026-02-24,12:00,Providencia,Funk,Jamiroquai,PC/Laptop,81,34.99
+2026-02-24,14:00,La Florida,Funk,Bruno Mars,Tablet,104,33.91
+2026-02-24,15:00,Providencia,Electrónica,Calvin Harris,Tablet,45,42.16
+2026-02-24,15:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,30,43.62
+2026-02-24,15:00,Las Condes,Metal,Iron Maiden,Smartphone,107,38.04
+2026-02-24,19:00,Las Condes,Pop,Dua Lipa,Smart TV,72,77.67
+2026-02-24,20:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,11,50.07
+2026-02-24,21:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smart TV,18,79.83
+2026-02-24,22:00,Maipú,Pop,Billie Eilish,Tablet,101,62.42
+2026-02-25,09:00,Maipú,Pop,Billie Eilish,PC/Laptop,45,57.25
+2026-02-25,13:00,Las Condes,Funk,"Earth, Wind & Fire",Tablet,66,47.31
+2026-02-25,14:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,85,48.23
+2026-02-25,16:00,Las Condes,Pop,The Weeknd,Tablet,74,23.88
+2026-02-25,17:00,Providencia,Alternativo/Latino,Coldplay,Tablet,31,46.71
+2026-02-25,17:00,Las Condes,Funk,"Earth, Wind & Fire",Smart TV,11,52.24
+2026-02-25,18:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,89,82.09
+2026-02-25,18:00,Pudahuel,Pop,Billie Eilish,Smartphone,85,88.92
+2026-02-25,19:00,Las Condes,Electrónica,Daft Punk,Smartphone,46,76.85
+2026-02-25,19:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,62,90.21
+2026-02-25,20:00,Maipú,Electrónica,Daft Punk,Smartphone,45,82.58
+2026-02-25,22:00,Santiago Centro,Funk,"Earth, Wind & Fire",Tablet,57,82.08
+2026-02-26,01:00,Maipú,Funk,Jamiroquai,Tablet,37,26.14
+2026-02-26,03:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smartphone,59,21.33
+2026-02-26,11:00,La Florida,Metal,Metallica,Smartphone,32,44.62
+2026-02-26,13:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,32,36.95
+2026-02-26,14:00,Maipú,Metal,Iron Maiden,Smart TV,97,26.69
+2026-02-26,14:00,La Florida,Alternativo/Latino,Los Bunkers,Tablet,95,46.48
+2026-02-26,15:00,Las Condes,Pop,Billie Eilish,PC/Laptop,93,36.96
+2026-02-26,15:00,Providencia,Electrónica,Daft Punk,Smart TV,17,45.82
+2026-02-26,17:00,Providencia,Alternativo/Latino,Mon Laferte,Smartphone,36,27.89
+2026-02-26,18:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,89,67.48
+2026-02-26,19:00,Pudahuel,Metal,Slipknot,PC/Laptop,69,75.77
+2026-02-27,00:00,Providencia,Electrónica,Calvin Harris,Smart TV,108,50.71
+2026-02-27,06:00,Pudahuel,Electrónica,Calvin Harris,Smartphone,88,28.77
+2026-02-27,16:00,Pudahuel,Funk,Jamiroquai,Smart TV,62,45.89
+2026-02-27,17:00,La Florida,Metal,Metallica,Smart TV,46,23.7
+2026-02-27,18:00,La Florida,Funk,Jamiroquai,PC/Laptop,35,64.74
+2026-02-27,20:00,Maipú,Pop,The Weeknd,Smartphone,85,90.23
+2026-02-27,20:00,Las Condes,Pop,Dua Lipa,Smartphone,69,91.28
+2026-02-27,22:00,La Florida,Metal,Iron Maiden,Tablet,75,75.21
+2026-02-28,15:00,Las Condes,Electrónica,Daft Punk,Smartphone,98,37.12
+2026-02-28,18:00,Santiago Centro,Metal,Metallica,PC/Laptop,20,80.58
+2026-02-28,23:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,45,46.49
+2026-03-01,00:00,Providencia,Metal,Metallica,Tablet,60,48.5
+2026-03-01,16:00,Providencia,Electrónica,Avicii,Smartphone,95,44.37
+2026-03-01,17:00,Pudahuel,Metal,Metallica,Smartphone,29,30.96
+2026-03-01,17:00,Las Condes,Metal,Slipknot,Smart TV,87,43.1
+2026-03-01,19:00,Las Condes,Funk,Jamiroquai,PC/Laptop,77,73.97
+2026-03-01,19:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,102,88.85
+2026-03-01,20:00,Santiago Centro,Electrónica,Avicii,Tablet,19,71.9
+2026-03-01,20:00,Providencia,Funk,"Earth, Wind & Fire",Smart TV,106,69.43
+2026-03-02,11:00,Las Condes,Electrónica,Daft Punk,PC/Laptop,43,53.67
+2026-03-02,12:00,Pudahuel,Pop,Dua Lipa,Tablet,29,23.86
+2026-03-02,13:00,La Florida,Electrónica,Calvin Harris,Tablet,82,47.13
+2026-03-02,13:00,Las Condes,Alternativo/Latino,Mon Laferte,Tablet,54,52.3
+2026-03-02,15:00,Las Condes,Electrónica,Avicii,Smart TV,85,38.13
+2026-03-02,15:00,Providencia,Funk,Jamiroquai,Tablet,42,43.58
+2026-03-02,16:00,Providencia,Electrónica,Daft Punk,Tablet,119,41.85
+2026-03-02,17:00,Santiago Centro,Pop,The Weeknd,Smart TV,79,29.65
+2026-03-02,19:00,La Florida,Electrónica,Daft Punk,PC/Laptop,28,74.27
+2026-03-02,19:00,Pudahuel,Funk,"Earth, Wind & Fire",Tablet,21,81.93
+2026-03-02,20:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,28,80.01
+2026-03-02,21:00,Las Condes,Pop,Dua Lipa,Smart TV,116,77.15
+2026-03-03,00:00,La Florida,Alternativo/Latino,Los Bunkers,PC/Laptop,15,36.78
+2026-03-03,13:00,Las Condes,Pop,Billie Eilish,Tablet,114,28.04
+2026-03-03,13:00,Las Condes,Electrónica,Calvin Harris,Tablet,69,47.08
+2026-03-03,15:00,Providencia,Funk,"Earth, Wind & Fire",PC/Laptop,93,45.83
+2026-03-03,18:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,107,61.88
+2026-03-03,19:00,Las Condes,Metal,Iron Maiden,Smart TV,87,86.4
+2026-03-03,20:00,Las Condes,Metal,Slipknot,PC/Laptop,67,88.74
+2026-03-03,21:00,Maipú,Alternativo/Latino,Mon Laferte,PC/Laptop,10,83.14
+2026-03-04,05:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,106,29.76
+2026-03-04,13:00,Santiago Centro,Funk,Bruno Mars,Tablet,85,35.89
+2026-03-04,18:00,Pudahuel,Metal,Slipknot,PC/Laptop,27,60.42
+2026-03-04,20:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,119,67.72
+2026-03-04,21:00,Pudahuel,Pop,The Weeknd,Tablet,98,73.06
+2026-03-04,21:00,Las Condes,Pop,Billie Eilish,PC/Laptop,57,64.23
+2026-03-05,09:00,Pudahuel,Electrónica,Daft Punk,Smartphone,97,39.14
+2026-03-05,10:00,La Florida,Metal,Slipknot,Tablet,76,39.68
+2026-03-05,13:00,Las Condes,Pop,Dua Lipa,Smart TV,71,44.88
+2026-03-05,15:00,Pudahuel,Funk,Bruno Mars,Smartphone,16,36.72
+2026-03-05,15:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,77,36.12
+2026-03-05,17:00,Maipú,Pop,Dua Lipa,Smartphone,85,55.65
+2026-03-05,17:00,La Florida,Electrónica,Daft Punk,Smartphone,82,51.73
+2026-03-05,17:00,Las Condes,Electrónica,Calvin Harris,Tablet,60,56.61
+2026-03-05,18:00,Santiago Centro,Alternativo/Latino,Coldplay,PC/Laptop,48,70.21
+2026-03-05,18:00,Maipú,Alternativo/Latino,Los Bunkers,Tablet,68,64.39
+2026-03-05,19:00,Providencia,Pop,Dua Lipa,Smartphone,46,62.58
+2026-03-05,19:00,Santiago Centro,Funk,Bruno Mars,Tablet,75,77.13
+2026-03-05,20:00,La Florida,Funk,Bruno Mars,PC/Laptop,68,64.77
+2026-03-05,21:00,Las Condes,Metal,Slipknot,Tablet,111,70.44
+2026-03-05,22:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,43,84.48
+2026-03-05,23:00,Maipú,Funk,Jamiroquai,Smart TV,90,51.46
+2026-03-06,01:00,Pudahuel,Pop,Dua Lipa,Smartphone,106,55.73
+2026-03-06,01:00,Maipú,Pop,Dua Lipa,PC/Laptop,53,40.0
+2026-03-06,13:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,13,34.85
+2026-03-06,15:00,Las Condes,Alternativo/Latino,Coldplay,PC/Laptop,12,44.84
+2026-03-06,17:00,Pudahuel,Pop,Billie Eilish,Smartphone,107,31.03
+2026-03-06,18:00,Las Condes,Pop,The Weeknd,PC/Laptop,43,94.39
+2026-03-06,18:00,Providencia,Metal,Slipknot,Tablet,55,91.95
+2026-03-06,19:00,Las Condes,Pop,The Weeknd,Smartphone,97,57.37
+2026-03-06,19:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,60,69.3
+2026-03-06,20:00,Maipú,Pop,Billie Eilish,Smartphone,118,72.4
+2026-03-06,20:00,Providencia,Funk,Jamiroquai,PC/Laptop,13,57.14
+2026-03-06,22:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,91,100.0
+2026-03-07,13:00,La Florida,Pop,Dua Lipa,Smart TV,96,38.58
+2026-03-07,13:00,Providencia,Pop,Dua Lipa,Smart TV,43,42.39
+2026-03-07,13:00,Pudahuel,Metal,Iron Maiden,Tablet,96,47.57
+2026-03-07,17:00,La Florida,Funk,Bruno Mars,Smartphone,95,43.39
+2026-03-07,19:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smartphone,102,87.3
+2026-03-07,20:00,Santiago Centro,Metal,Slipknot,Smartphone,109,83.66
+2026-03-07,20:00,Pudahuel,Pop,Billie Eilish,Tablet,66,82.59
+2026-03-08,13:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,108,32.15
+2026-03-08,14:00,La Florida,Funk,"Earth, Wind & Fire",PC/Laptop,94,32.88
+2026-03-08,15:00,Las Condes,Pop,Dua Lipa,Tablet,87,47.45
+2026-03-08,17:00,Pudahuel,Pop,Dua Lipa,PC/Laptop,58,45.79
+2026-03-08,18:00,Las Condes,Electrónica,Calvin Harris,Smartphone,70,84.33
+2026-03-08,18:00,Pudahuel,Electrónica,Daft Punk,Smartphone,21,73.5
+2026-03-08,19:00,La Florida,Pop,Dua Lipa,Smartphone,59,68.49
+2026-03-08,19:00,Maipú,Alternativo/Latino,Mon Laferte,PC/Laptop,50,54.0
+2026-03-08,21:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,73,76.06
+2026-03-09,02:00,Las Condes,Alternativo/Latino,Los Bunkers,PC/Laptop,58,38.24
+2026-03-09,12:00,Maipú,Metal,Slipknot,Smart TV,105,41.97
+2026-03-09,14:00,Maipú,Funk,Bruno Mars,Tablet,81,36.78
+2026-03-09,15:00,Providencia,Funk,Bruno Mars,Tablet,14,49.28
+2026-03-09,15:00,La Florida,Metal,Iron Maiden,PC/Laptop,32,59.53
+2026-03-09,18:00,Maipú,Pop,Billie Eilish,Tablet,74,88.64
+2026-03-09,23:00,Providencia,Funk,"Earth, Wind & Fire",PC/Laptop,117,55.62
+2026-03-10,14:00,La Florida,Pop,Billie Eilish,Smart TV,113,61.45
+2026-03-10,14:00,Maipú,Electrónica,Avicii,Smart TV,28,44.24
+2026-03-10,16:00,Santiago Centro,Funk,"Earth, Wind & Fire",PC/Laptop,29,33.88
+2026-03-10,17:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,33,44.48
+2026-03-10,18:00,Las Condes,Pop,Billie Eilish,Smartphone,20,67.47
+2026-03-10,21:00,Pudahuel,Metal,Slipknot,Smart TV,37,62.79
+2026-03-10,21:00,Las Condes,Pop,Billie Eilish,PC/Laptop,15,79.62
+2026-03-10,22:00,Maipú,Funk,Bruno Mars,PC/Laptop,104,69.65
+2026-03-11,01:00,Maipú,Metal,Metallica,PC/Laptop,83,42.24
+2026-03-11,13:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,32,40.55
+2026-03-11,15:00,La Florida,Alternativo/Latino,Los Bunkers,PC/Laptop,110,17.94
+2026-03-11,15:00,Santiago Centro,Funk,Bruno Mars,Smart TV,16,41.24
+2026-03-11,18:00,Providencia,Funk,Jamiroquai,Smart TV,80,68.53
+2026-03-11,18:00,La Florida,Electrónica,Daft Punk,Smartphone,47,77.44
+2026-03-11,19:00,Maipú,Alternativo/Latino,Mon Laferte,Smart TV,65,65.96
+2026-03-11,19:00,Santiago Centro,Pop,Dua Lipa,Tablet,69,72.66
+2026-03-11,19:00,Providencia,Metal,Slipknot,Tablet,100,89.31
+2026-03-11,20:00,Las Condes,Pop,Billie Eilish,PC/Laptop,50,70.88
+2026-03-11,22:00,Maipú,Pop,Dua Lipa,PC/Laptop,13,79.75
+2026-03-11,23:00,Providencia,Funk,"Earth, Wind & Fire",PC/Laptop,24,37.29
+2026-03-12,01:00,Maipú,Pop,Billie Eilish,Smartphone,56,31.68
+2026-03-12,14:00,Pudahuel,Pop,Dua Lipa,PC/Laptop,91,55.5
+2026-03-12,14:00,La Florida,Pop,Billie Eilish,Smart TV,109,49.41
+2026-03-12,15:00,Las Condes,Alternativo/Latino,Los Bunkers,Smart TV,58,29.18
+2026-03-12,16:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,90,42.19
+2026-03-12,16:00,Providencia,Pop,The Weeknd,Smart TV,84,55.63
+2026-03-12,17:00,La Florida,Metal,Slipknot,PC/Laptop,41,49.64
+2026-03-12,22:00,Maipú,Metal,Slipknot,Tablet,20,63.22
+2026-03-13,00:00,Maipú,Pop,Dua Lipa,PC/Laptop,33,43.61
+2026-03-13,13:00,Maipú,Pop,Billie Eilish,Tablet,96,20.37
+2026-03-13,13:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,10,51.37
+2026-03-13,14:00,La Florida,Electrónica,Daft Punk,Smartphone,114,53.55
+2026-03-13,15:00,La Florida,Alternativo/Latino,Mon Laferte,Smartphone,102,44.58
+2026-03-13,16:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,33,46.86
+2026-03-13,17:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,32,40.27
+2026-03-13,17:00,Pudahuel,Funk,Bruno Mars,Smart TV,108,48.18
+2026-03-13,18:00,Maipú,Metal,Iron Maiden,Smartphone,21,55.87
+2026-03-13,18:00,Las Condes,Electrónica,Calvin Harris,PC/Laptop,119,67.42
+2026-03-13,19:00,Las Condes,Metal,Iron Maiden,Smartphone,87,74.5
+2026-03-13,19:00,La Florida,Pop,The Weeknd,Smartphone,112,79.3
+2026-03-13,23:00,Maipú,Metal,Iron Maiden,Tablet,94,45.58
+2026-03-13,23:00,La Florida,Electrónica,Calvin Harris,Smart TV,43,31.54
+2026-03-14,14:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,19,29.34
+2026-03-14,15:00,Providencia,Metal,Metallica,PC/Laptop,13,53.74
+2026-03-14,15:00,Santiago Centro,Pop,Dua Lipa,Smart TV,74,40.34
+2026-03-14,15:00,Santiago Centro,Metal,Metallica,Smartphone,89,42.39
+2026-03-14,16:00,Santiago Centro,Electrónica,Daft Punk,Tablet,11,37.96
+2026-03-14,16:00,Providencia,Pop,Dua Lipa,PC/Laptop,89,32.72
+2026-03-14,17:00,Santiago Centro,Pop,Billie Eilish,Smartphone,26,57.04
+2026-03-14,19:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,30,63.75
+2026-03-14,21:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,27,72.86
+2026-03-15,02:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,91,57.55
+2026-03-15,11:00,Santiago Centro,Pop,Dua Lipa,Tablet,94,35.29
+2026-03-15,12:00,Santiago Centro,Electrónica,Avicii,Smartphone,108,30.81
+2026-03-15,13:00,Maipú,Electrónica,Daft Punk,Smartphone,40,23.45
+2026-03-15,13:00,Santiago Centro,Funk,Bruno Mars,PC/Laptop,49,41.59
+2026-03-15,15:00,Pudahuel,Funk,Bruno Mars,Smart TV,19,37.91
+2026-03-15,18:00,Providencia,Metal,Slipknot,Tablet,67,85.94
+2026-03-15,18:00,La Florida,Alternativo/Latino,Coldplay,Tablet,99,70.71
+2026-03-15,18:00,Providencia,Electrónica,Avicii,Smartphone,65,83.5
+2026-03-15,20:00,Maipú,Funk,Bruno Mars,Smart TV,69,66.43
+2026-03-15,20:00,Maipú,Electrónica,Calvin Harris,Smart TV,79,80.14
+2026-03-15,20:00,Santiago Centro,Alternativo/Latino,Coldplay,Tablet,95,79.22
+2026-03-15,23:00,La Florida,Metal,Slipknot,Tablet,50,31.05
+2026-03-16,00:00,Pudahuel,Pop,Dua Lipa,Smartphone,52,30.02
+2026-03-16,01:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,75,34.94
+2026-03-16,13:00,Providencia,Metal,Slipknot,Smart TV,15,23.13
+2026-03-16,15:00,La Florida,Funk,Jamiroquai,Smart TV,29,43.33
+2026-03-16,16:00,La Florida,Electrónica,Avicii,PC/Laptop,100,52.81
+2026-03-16,16:00,La Florida,Funk,Bruno Mars,Tablet,103,27.91
+2026-03-16,18:00,Pudahuel,Metal,Metallica,Tablet,45,60.75
+2026-03-16,19:00,La Florida,Alternativo/Latino,Mon Laferte,Smart TV,72,61.74
+2026-03-16,19:00,Las Condes,Metal,Slipknot,Tablet,53,61.33
+2026-03-17,00:00,Pudahuel,Funk,"Earth, Wind & Fire",Smartphone,82,41.16
+2026-03-17,16:00,La Florida,Electrónica,Daft Punk,Tablet,19,47.18
+2026-03-17,18:00,Las Condes,Funk,Jamiroquai,PC/Laptop,79,70.08
+2026-03-17,18:00,Las Condes,Funk,Jamiroquai,Smart TV,11,81.93
+2026-03-17,19:00,Las Condes,Metal,Slipknot,PC/Laptop,83,92.59
+2026-03-17,22:00,Santiago Centro,Metal,Metallica,Tablet,37,79.81
+2026-03-17,23:00,Santiago Centro,Pop,The Weeknd,Smart TV,78,23.38
+2026-03-17,23:00,Maipú,Funk,Bruno Mars,Tablet,28,38.48
+2026-03-18,11:00,Pudahuel,Pop,Dua Lipa,Smartphone,47,53.54
+2026-03-18,14:00,Santiago Centro,Pop,Billie Eilish,Smart TV,102,36.02
+2026-03-18,15:00,Providencia,Pop,Billie Eilish,PC/Laptop,35,65.58
+2026-03-18,15:00,Pudahuel,Funk,"Earth, Wind & Fire",Smartphone,60,53.88
+2026-03-18,15:00,Santiago Centro,Electrónica,Calvin Harris,Tablet,115,39.23
+2026-03-18,15:00,Pudahuel,Alternativo/Latino,Coldplay,Tablet,27,20.31
+2026-03-18,17:00,Las Condes,Electrónica,Avicii,Tablet,51,43.41
+2026-03-18,18:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,120,67.27
+2026-03-18,19:00,Pudahuel,Alternativo/Latino,Coldplay,PC/Laptop,103,78.0
+2026-03-18,20:00,La Florida,Funk,Bruno Mars,Smart TV,68,63.75
+2026-03-18,23:00,Santiago Centro,Alternativo/Latino,Los Bunkers,PC/Laptop,101,43.13
+2026-03-19,10:00,Las Condes,Funk,Jamiroquai,PC/Laptop,42,29.49
+2026-03-19,11:00,Maipú,Funk,"Earth, Wind & Fire",Smartphone,40,52.78
+2026-03-19,11:00,Providencia,Electrónica,Daft Punk,PC/Laptop,23,41.85
+2026-03-19,14:00,Santiago Centro,Funk,Jamiroquai,Tablet,47,44.72
+2026-03-19,14:00,Las Condes,Metal,Iron Maiden,PC/Laptop,111,33.48
+2026-03-19,14:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,85,50.82
+2026-03-19,15:00,Maipú,Metal,Iron Maiden,Smart TV,51,40.47
+2026-03-19,15:00,Pudahuel,Metal,Iron Maiden,PC/Laptop,120,47.58
+2026-03-19,15:00,Pudahuel,Metal,Metallica,Smartphone,34,42.04
+2026-03-19,17:00,Providencia,Metal,Iron Maiden,Tablet,12,34.71
+2026-03-19,17:00,Pudahuel,Metal,Metallica,PC/Laptop,14,31.95
+2026-03-19,18:00,Santiago Centro,Metal,Metallica,Tablet,111,71.63
+2026-03-19,19:00,Providencia,Metal,Slipknot,Tablet,48,84.83
+2026-03-19,19:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,94,64.96
+2026-03-19,20:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,48,96.63
+2026-03-19,20:00,Las Condes,Funk,"Earth, Wind & Fire",Tablet,40,71.08
+2026-03-19,21:00,Maipú,Electrónica,Daft Punk,Smart TV,42,71.75
+2026-03-19,21:00,Pudahuel,Metal,Slipknot,Smartphone,22,73.63
+2026-03-19,22:00,La Florida,Funk,"Earth, Wind & Fire",Tablet,66,82.92
+2026-03-19,22:00,Las Condes,Funk,Jamiroquai,Smartphone,96,98.2
+2026-03-20,00:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,30,49.85
+2026-03-20,02:00,Providencia,Electrónica,Calvin Harris,Smartphone,26,33.11
+2026-03-20,10:00,Pudahuel,Metal,Slipknot,PC/Laptop,63,43.74
+2026-03-20,12:00,La Florida,Metal,Iron Maiden,Smartphone,100,23.55
+2026-03-20,12:00,La Florida,Funk,Bruno Mars,Smartphone,23,35.85
+2026-03-20,13:00,Santiago Centro,Metal,Metallica,Tablet,10,48.94
+2026-03-20,14:00,Maipú,Funk,Bruno Mars,Smart TV,98,44.71
+2026-03-20,17:00,Maipú,Electrónica,Avicii,Tablet,89,37.37
+2026-03-20,17:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,89,34.72
+2026-03-20,18:00,Pudahuel,Metal,Iron Maiden,PC/Laptop,75,55.02
+2026-03-20,19:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,103,78.16
+2026-03-20,20:00,La Florida,Electrónica,Calvin Harris,Tablet,119,57.39
+2026-03-20,20:00,Providencia,Funk,Bruno Mars,PC/Laptop,117,89.89
+2026-03-21,00:00,Las Condes,Pop,The Weeknd,Smartphone,49,37.26
+2026-03-21,15:00,Maipú,Metal,Iron Maiden,PC/Laptop,18,33.89
+2026-03-21,17:00,Las Condes,Electrónica,Avicii,Tablet,16,46.69
+2026-03-22,08:00,Las Condes,Funk,Bruno Mars,Tablet,100,32.03
+2026-03-22,15:00,Pudahuel,Electrónica,Avicii,PC/Laptop,22,27.79
+2026-03-22,16:00,Santiago Centro,Electrónica,Daft Punk,Tablet,120,42.32
+2026-03-22,17:00,Pudahuel,Pop,The Weeknd,Tablet,74,44.04
+2026-03-22,17:00,Pudahuel,Funk,Jamiroquai,PC/Laptop,73,32.53
+2026-03-22,18:00,Pudahuel,Metal,Slipknot,PC/Laptop,106,54.58
+2026-03-22,18:00,Providencia,Electrónica,Calvin Harris,Tablet,44,60.86
+2026-03-22,19:00,La Florida,Funk,Jamiroquai,Tablet,16,87.72
+2026-03-22,20:00,Pudahuel,Funk,Bruno Mars,Smartphone,78,76.8
+2026-03-22,20:00,Providencia,Alternativo/Latino,Coldplay,Tablet,33,75.06
+2026-03-22,21:00,Providencia,Alternativo/Latino,Los Bunkers,Smartphone,59,79.13
+2026-03-22,21:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,95,62.46
+2026-03-22,21:00,Maipú,Metal,Slipknot,Tablet,45,58.84
+2026-03-23,13:00,La Florida,Metal,Slipknot,Smartphone,93,44.45
+2026-03-23,13:00,Santiago Centro,Metal,Iron Maiden,Tablet,79,48.9
+2026-03-23,13:00,Providencia,Alternativo/Latino,Coldplay,Smartphone,71,59.11
+2026-03-23,14:00,La Florida,Funk,"Earth, Wind & Fire",Tablet,65,30.43
+2026-03-23,14:00,Providencia,Funk,Bruno Mars,PC/Laptop,43,49.55
+2026-03-23,15:00,La Florida,Electrónica,Calvin Harris,PC/Laptop,107,40.26
+2026-03-23,18:00,Santiago Centro,Funk,Bruno Mars,PC/Laptop,51,85.47
+2026-03-23,18:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,95,72.37
+2026-03-23,20:00,Maipú,Electrónica,Calvin Harris,Tablet,15,74.01
+2026-03-23,20:00,Santiago Centro,Metal,Slipknot,PC/Laptop,23,66.49
+2026-03-23,21:00,Las Condes,Metal,Slipknot,Smartphone,73,60.15
+2026-03-23,22:00,La Florida,Electrónica,Avicii,Smart TV,87,75.98
+2026-03-23,22:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,45,85.57
+2026-03-23,23:00,Las Condes,Metal,Metallica,Smartphone,110,39.77
+2026-03-24,01:00,Santiago Centro,Electrónica,Calvin Harris,Smart TV,22,40.04
+2026-03-24,03:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,108,47.85
+2026-03-24,15:00,Maipú,Pop,Dua Lipa,Tablet,40,34.45
+2026-03-24,19:00,Las Condes,Pop,The Weeknd,Smart TV,68,75.39
+2026-03-24,20:00,Pudahuel,Metal,Metallica,Smartphone,33,80.16
+2026-03-24,20:00,Las Condes,Metal,Slipknot,PC/Laptop,58,87.04
+2026-03-24,20:00,Maipú,Funk,Bruno Mars,Smartphone,18,76.23
+2026-03-24,21:00,Providencia,Pop,Billie Eilish,Tablet,85,70.48
+2026-03-24,22:00,Santiago Centro,Metal,Iron Maiden,Smart TV,12,89.36
+2026-03-25,03:00,Maipú,Pop,The Weeknd,PC/Laptop,55,43.93
+2026-03-25,12:00,La Florida,Electrónica,Calvin Harris,Tablet,87,32.22
+2026-03-25,12:00,Santiago Centro,Alternativo/Latino,Coldplay,Smartphone,110,55.01
+2026-03-25,13:00,La Florida,Alternativo/Latino,Coldplay,Tablet,20,44.97
+2026-03-25,15:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,29,45.71
+2026-03-25,16:00,Providencia,Pop,Dua Lipa,Smart TV,68,37.15
+2026-03-25,16:00,Pudahuel,Alternativo/Latino,Mon Laferte,Tablet,114,26.52
+2026-03-25,17:00,Pudahuel,Metal,Metallica,Smart TV,61,29.42
+2026-03-25,17:00,Las Condes,Funk,Jamiroquai,PC/Laptop,101,32.02
+2026-03-25,19:00,Maipú,Alternativo/Latino,Coldplay,Smart TV,21,68.96
+2026-03-25,20:00,Pudahuel,Alternativo/Latino,Los Bunkers,Tablet,59,56.17
+2026-03-25,21:00,La Florida,Funk,Bruno Mars,Tablet,50,69.84
+2026-03-26,00:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,93,29.85
+2026-03-26,12:00,La Florida,Pop,Dua Lipa,Tablet,71,39.17
+2026-03-26,13:00,Maipú,Electrónica,Calvin Harris,Smartphone,76,39.64
+2026-03-26,15:00,Maipú,Pop,Dua Lipa,Smartphone,73,36.59
+2026-03-26,16:00,Las Condes,Funk,"Earth, Wind & Fire",Tablet,83,41.32
+2026-03-26,17:00,Maipú,Funk,Bruno Mars,PC/Laptop,73,42.43
+2026-03-26,18:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smart TV,95,55.12
+2026-03-26,18:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,58,68.86
+2026-03-26,19:00,Santiago Centro,Metal,Metallica,Smartphone,95,100.0
+2026-03-26,21:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,36,81.51
+2026-03-26,21:00,La Florida,Alternativo/Latino,Coldplay,Smart TV,90,69.23
+2026-03-26,21:00,Pudahuel,Pop,Billie Eilish,Smartphone,32,61.54
+2026-03-26,21:00,Santiago Centro,Electrónica,Avicii,Smart TV,34,77.08
+2026-03-26,22:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,75,69.9
+2026-03-27,02:00,Maipú,Funk,Jamiroquai,PC/Laptop,34,53.31
+2026-03-27,12:00,Santiago Centro,Pop,Billie Eilish,PC/Laptop,104,18.01
+2026-03-27,13:00,Santiago Centro,Metal,Metallica,Smart TV,11,28.28
+2026-03-27,15:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,104,40.82
+2026-03-27,18:00,Pudahuel,Electrónica,Daft Punk,Smartphone,87,54.18
+2026-03-27,19:00,Providencia,Metal,Iron Maiden,PC/Laptop,110,78.46
+2026-03-27,19:00,Maipú,Pop,The Weeknd,Smartphone,77,70.88
+2026-03-27,22:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,66,98.64
+2026-03-27,22:00,Maipú,Funk,"Earth, Wind & Fire",Smartphone,10,72.41
+2026-03-28,05:00,La Florida,Pop,Dua Lipa,Smartphone,37,52.45
+2026-03-28,13:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,54,41.09
+2026-03-28,14:00,La Florida,Metal,Iron Maiden,Smartphone,96,31.68
+2026-03-28,15:00,Pudahuel,Metal,Metallica,PC/Laptop,78,45.13
+2026-03-28,18:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,100,61.65
+2026-03-28,18:00,Santiago Centro,Funk,Jamiroquai,Tablet,17,70.89
+2026-03-28,19:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,65,61.43
+2026-03-28,19:00,Pudahuel,Funk,Jamiroquai,Smartphone,108,72.48
+2026-03-28,19:00,Providencia,Funk,Jamiroquai,Tablet,92,76.76
+2026-03-28,20:00,La Florida,Funk,Bruno Mars,PC/Laptop,117,58.87
+2026-03-28,21:00,Las Condes,Metal,Slipknot,Tablet,29,88.56
+2026-03-29,15:00,La Florida,Pop,Billie Eilish,Smartphone,90,26.77
+2026-03-29,15:00,Providencia,Alternativo/Latino,Coldplay,PC/Laptop,50,41.85
+2026-03-29,15:00,La Florida,Metal,Metallica,Smartphone,111,32.88
+2026-03-29,16:00,Providencia,Metal,Metallica,PC/Laptop,29,43.77
+2026-03-29,16:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,28,42.5
+2026-03-29,21:00,Maipú,Pop,Dua Lipa,Tablet,68,66.97
+2026-03-29,22:00,La Florida,Alternativo/Latino,Mon Laferte,Smartphone,83,74.16
+2026-03-30,15:00,Providencia,Funk,Bruno Mars,Smartphone,74,41.95
+2026-03-30,16:00,Providencia,Metal,Iron Maiden,Smartphone,99,55.99
+2026-03-30,18:00,Pudahuel,Alternativo/Latino,Mon Laferte,Tablet,118,80.02
+2026-03-30,21:00,La Florida,Funk,Jamiroquai,Smart TV,20,53.73
+2026-03-30,22:00,Maipú,Electrónica,Daft Punk,Smart TV,101,60.14
+2026-03-31,16:00,Santiago Centro,Electrónica,Daft Punk,Tablet,86,43.42
+2026-03-31,17:00,Las Condes,Electrónica,Avicii,PC/Laptop,51,43.29
+2026-03-31,17:00,La Florida,Funk,Jamiroquai,Smart TV,16,45.36
+2026-03-31,19:00,Las Condes,Metal,Metallica,PC/Laptop,98,70.13
+2026-03-31,20:00,Pudahuel,Metal,Slipknot,Tablet,77,86.09
+2026-03-31,20:00,Pudahuel,Funk,Jamiroquai,PC/Laptop,36,63.57
+2026-03-31,21:00,Providencia,Electrónica,Daft Punk,Tablet,48,78.81
+2026-03-31,21:00,Maipú,Metal,Slipknot,Smart TV,52,80.47
+2026-03-31,21:00,Santiago Centro,Funk,"Earth, Wind & Fire",PC/Laptop,18,65.26
+2026-04-01,00:00,Maipú,Electrónica,Calvin Harris,Smart TV,57,36.0
+2026-04-01,13:00,Santiago Centro,Electrónica,Daft Punk,Smartphone,98,30.82
+2026-04-01,15:00,Pudahuel,Metal,Iron Maiden,Smartphone,53,54.22
+2026-04-01,16:00,Santiago Centro,Electrónica,Calvin Harris,Smart TV,81,41.31
+2026-04-01,16:00,Santiago Centro,Funk,Jamiroquai,Smart TV,61,21.1
+2026-04-01,17:00,Maipú,Metal,Slipknot,Tablet,33,51.17
+2026-04-01,17:00,Maipú,Metal,Iron Maiden,Smartphone,83,25.5
+2026-04-01,20:00,Providencia,Alternativo/Latino,Mon Laferte,Smart TV,88,75.52
+2026-04-01,20:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Tablet,45,82.89
+2026-04-01,21:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,19,87.72
+2026-04-02,11:00,Santiago Centro,Electrónica,Daft Punk,Smartphone,106,36.43
+2026-04-02,15:00,Maipú,Metal,Metallica,Smart TV,89,48.08
+2026-04-02,16:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,14,39.5
+2026-04-02,17:00,Santiago Centro,Funk,Jamiroquai,PC/Laptop,77,52.38
+2026-04-02,17:00,Las Condes,Electrónica,Daft Punk,PC/Laptop,47,44.2
+2026-04-02,17:00,Providencia,Alternativo/Latino,Coldplay,Smartphone,57,43.67
+2026-04-02,17:00,La Florida,Metal,Metallica,PC/Laptop,46,25.67
+2026-04-02,18:00,La Florida,Metal,Slipknot,Smartphone,26,77.77
+2026-04-02,18:00,Santiago Centro,Metal,Slipknot,Tablet,19,75.18
+2026-04-02,21:00,Santiago Centro,Funk,Bruno Mars,Smartphone,32,92.11
+2026-04-03,00:00,Las Condes,Pop,The Weeknd,PC/Laptop,16,30.54
+2026-04-03,02:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smart TV,54,30.81
+2026-04-03,11:00,Las Condes,Metal,Metallica,PC/Laptop,111,46.06
+2026-04-03,13:00,Maipú,Electrónica,Calvin Harris,Tablet,67,29.32
+2026-04-03,16:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,37,30.21
+2026-04-03,16:00,Las Condes,Pop,The Weeknd,PC/Laptop,63,33.08
+2026-04-03,16:00,La Florida,Electrónica,Avicii,Smart TV,40,50.02
+2026-04-03,17:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smartphone,59,37.27
+2026-04-03,17:00,Pudahuel,Funk,Bruno Mars,PC/Laptop,57,38.7
+2026-04-03,17:00,Santiago Centro,Metal,Slipknot,Tablet,81,36.33
+2026-04-03,17:00,La Florida,Electrónica,Avicii,Smartphone,20,24.51
+2026-04-03,20:00,Providencia,Metal,Slipknot,Tablet,57,71.98
+2026-04-03,22:00,Las Condes,Electrónica,Daft Punk,Smart TV,40,78.7
+2026-04-04,16:00,Providencia,Electrónica,Avicii,Smart TV,41,51.59
+2026-04-04,16:00,Las Condes,Metal,Metallica,Smart TV,113,54.52
+2026-04-04,16:00,Maipú,Electrónica,Daft Punk,Tablet,25,41.81
+2026-04-04,17:00,Providencia,Electrónica,Daft Punk,Smart TV,11,38.49
+2026-04-04,22:00,Providencia,Pop,The Weeknd,Tablet,103,100.0
+2026-04-04,22:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smart TV,58,74.38
+2026-04-05,02:00,Las Condes,Metal,Iron Maiden,PC/Laptop,84,28.69
+2026-04-05,10:00,Santiago Centro,Pop,Billie Eilish,PC/Laptop,109,47.51
+2026-04-05,11:00,La Florida,Electrónica,Avicii,Tablet,115,39.44
+2026-04-05,11:00,Santiago Centro,Pop,The Weeknd,Smartphone,117,47.51
+2026-04-05,13:00,Maipú,Electrónica,Calvin Harris,Smartphone,49,36.06
+2026-04-05,15:00,Maipú,Electrónica,Avicii,Smart TV,104,29.85
+2026-04-05,15:00,Maipú,Metal,Slipknot,Smartphone,95,48.55
+2026-04-05,17:00,Providencia,Funk,"Earth, Wind & Fire",Smartphone,109,41.26
+2026-04-05,17:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,49,40.19
+2026-04-05,17:00,Pudahuel,Alternativo/Latino,Mon Laferte,Tablet,61,21.18
+2026-04-05,17:00,Providencia,Pop,Dua Lipa,Smartphone,47,55.11
+2026-04-05,20:00,Las Condes,Alternativo/Latino,Mon Laferte,Smart TV,40,67.74
+2026-04-05,20:00,Providencia,Electrónica,Daft Punk,Tablet,15,77.99
+2026-04-05,21:00,Pudahuel,Alternativo/Latino,Coldplay,Smartphone,25,80.16
+2026-04-05,21:00,Las Condes,Electrónica,Daft Punk,PC/Laptop,25,80.22
+2026-04-06,00:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smartphone,32,34.46
+2026-04-06,03:00,Santiago Centro,Alternativo/Latino,Mon Laferte,PC/Laptop,106,35.96
+2026-04-06,06:00,Santiago Centro,Alternativo/Latino,Coldplay,Smartphone,16,36.25
+2026-04-06,13:00,Maipú,Pop,Billie Eilish,Smartphone,41,51.14
+2026-04-06,13:00,Santiago Centro,Electrónica,Calvin Harris,Smart TV,72,36.69
+2026-04-06,17:00,La Florida,Funk,Bruno Mars,Smartphone,53,54.91
+2026-04-06,17:00,Pudahuel,Electrónica,Avicii,PC/Laptop,12,35.47
+2026-04-06,17:00,Maipú,Funk,Bruno Mars,Tablet,60,36.11
+2026-04-06,18:00,Maipú,Funk,Bruno Mars,PC/Laptop,90,60.51
+2026-04-06,19:00,Providencia,Electrónica,Daft Punk,Smart TV,32,89.02
+2026-04-06,20:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smart TV,96,97.71
+2026-04-06,20:00,Providencia,Pop,The Weeknd,PC/Laptop,77,79.44
+2026-04-06,20:00,Pudahuel,Electrónica,Calvin Harris,Smart TV,45,85.73
+2026-04-06,21:00,Maipú,Alternativo/Latino,Mon Laferte,Smart TV,95,94.09
+2026-04-06,22:00,Providencia,Funk,Bruno Mars,PC/Laptop,54,57.6
+2026-04-06,23:00,La Florida,Metal,Slipknot,Tablet,101,58.07
+2026-04-07,00:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smartphone,82,35.41
+2026-04-07,00:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,33,49.79
+2026-04-07,03:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,74,33.82
+2026-04-07,11:00,Pudahuel,Electrónica,Daft Punk,Smart TV,13,33.67
+2026-04-07,15:00,Las Condes,Metal,Metallica,Smart TV,76,44.56
+2026-04-07,16:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,74,53.12
+2026-04-07,18:00,Las Condes,Electrónica,Calvin Harris,PC/Laptop,117,81.46
+2026-04-07,18:00,Maipú,Funk,Jamiroquai,Smartphone,56,53.71
+2026-04-07,19:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,113,59.83
+2026-04-07,19:00,La Florida,Pop,Dua Lipa,Tablet,45,85.7
+2026-04-07,20:00,Providencia,Pop,The Weeknd,PC/Laptop,93,71.41
+2026-04-07,20:00,Providencia,Metal,Slipknot,Tablet,20,78.93
+2026-04-07,20:00,Maipú,Metal,Iron Maiden,PC/Laptop,35,69.66
+2026-04-07,21:00,Las Condes,Funk,Jamiroquai,Smartphone,99,79.25
+2026-04-08,02:00,Providencia,Metal,Iron Maiden,Smartphone,26,31.92
+2026-04-08,11:00,Pudahuel,Electrónica,Calvin Harris,Smart TV,113,34.38
+2026-04-08,12:00,Providencia,Pop,Dua Lipa,PC/Laptop,80,42.87
+2026-04-08,14:00,Maipú,Metal,Metallica,Smartphone,88,37.19
+2026-04-08,15:00,Maipú,Electrónica,Daft Punk,Smart TV,96,51.72
+2026-04-08,16:00,Maipú,Pop,The Weeknd,Smartphone,35,35.96
+2026-04-08,16:00,Las Condes,Electrónica,Calvin Harris,PC/Laptop,31,38.94
+2026-04-08,17:00,Maipú,Metal,Iron Maiden,Smart TV,44,61.42
+2026-04-08,17:00,La Florida,Alternativo/Latino,Coldplay,PC/Laptop,38,40.73
+2026-04-08,19:00,Las Condes,Electrónica,Avicii,Smart TV,99,67.52
+2026-04-08,19:00,La Florida,Electrónica,Calvin Harris,Smartphone,76,75.19
+2026-04-09,00:00,Pudahuel,Electrónica,Daft Punk,Smartphone,50,34.89
+2026-04-09,14:00,Pudahuel,Pop,The Weeknd,PC/Laptop,103,39.97
+2026-04-09,15:00,La Florida,Metal,Slipknot,Smartphone,60,27.15
+2026-04-09,16:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,45,51.48
+2026-04-09,16:00,Santiago Centro,Pop,Dua Lipa,Smart TV,54,47.32
+2026-04-09,17:00,Las Condes,Funk,Bruno Mars,Smart TV,115,57.71
+2026-04-09,17:00,Maipú,Funk,Jamiroquai,PC/Laptop,90,32.44
+2026-04-09,17:00,Providencia,Electrónica,Calvin Harris,Tablet,68,33.64
+2026-04-09,18:00,La Florida,Funk,Jamiroquai,Smart TV,52,55.8
+2026-04-09,20:00,Pudahuel,Pop,Dua Lipa,Tablet,32,83.49
+2026-04-09,21:00,Santiago Centro,Funk,"Earth, Wind & Fire",PC/Laptop,41,59.29
+2026-04-09,22:00,Providencia,Funk,Bruno Mars,Smartphone,53,79.75
+2026-04-10,12:00,Providencia,Funk,Jamiroquai,PC/Laptop,34,37.33
+2026-04-10,13:00,La Florida,Alternativo/Latino,Coldplay,Tablet,106,37.19
+2026-04-10,13:00,La Florida,Pop,Billie Eilish,PC/Laptop,70,41.09
+2026-04-10,14:00,La Florida,Alternativo/Latino,Coldplay,Tablet,76,40.78
+2026-04-10,16:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,72,40.82
+2026-04-10,16:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smart TV,73,33.88
+2026-04-10,17:00,Las Condes,Funk,Bruno Mars,Smartphone,54,39.63
+2026-04-10,19:00,Providencia,Pop,The Weeknd,Tablet,94,78.69
+2026-04-10,19:00,Maipú,Electrónica,Avicii,Tablet,71,72.59
+2026-04-10,20:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,97,69.26
+2026-04-10,20:00,La Florida,Alternativo/Latino,Mon Laferte,Smartphone,49,73.17
+2026-04-10,21:00,Providencia,Alternativo/Latino,Mon Laferte,Tablet,64,78.46
+2026-04-10,23:00,Santiago Centro,Electrónica,Daft Punk,Smartphone,10,41.98
+2026-04-11,17:00,Pudahuel,Metal,Slipknot,Smartphone,90,39.62
+2026-04-11,17:00,Providencia,Pop,The Weeknd,Smart TV,46,43.08
+2026-04-11,19:00,Maipú,Electrónica,Daft Punk,Smartphone,104,65.62
+2026-04-11,20:00,Santiago Centro,Electrónica,Avicii,Smart TV,106,69.38
+2026-04-11,20:00,Santiago Centro,Pop,Billie Eilish,Tablet,59,65.32
+2026-04-11,20:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smartphone,65,75.76
+2026-04-11,20:00,Las Condes,Pop,The Weeknd,Smartphone,78,94.41
+2026-04-12,00:00,Pudahuel,Electrónica,Avicii,Smartphone,68,26.2
+2026-04-12,00:00,Santiago Centro,Metal,Metallica,Tablet,44,45.08
+2026-04-12,03:00,Pudahuel,Alternativo/Latino,Coldplay,Smart TV,28,42.65
+2026-04-12,10:00,Las Condes,Pop,Billie Eilish,Smart TV,89,52.62
+2026-04-12,10:00,Maipú,Metal,Slipknot,PC/Laptop,70,50.64
+2026-04-12,13:00,Maipú,Funk,Bruno Mars,Tablet,32,54.11
+2026-04-12,15:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,106,34.53
+2026-04-12,17:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,82,33.18
+2026-04-12,18:00,Las Condes,Pop,The Weeknd,Smart TV,43,71.91
+2026-04-12,18:00,Santiago Centro,Electrónica,Calvin Harris,PC/Laptop,27,60.62
+2026-04-12,18:00,Pudahuel,Pop,Dua Lipa,Smartphone,76,81.01
+2026-04-12,20:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,41,69.87
+2026-04-12,20:00,La Florida,Alternativo/Latino,Los Bunkers,Smartphone,116,63.51
+2026-04-13,12:00,Las Condes,Funk,Jamiroquai,Smartphone,23,45.91
+2026-04-13,13:00,Santiago Centro,Funk,Jamiroquai,PC/Laptop,83,41.43
+2026-04-13,14:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,18,27.04
+2026-04-13,14:00,Maipú,Funk,Jamiroquai,Smartphone,42,24.02
+2026-04-13,14:00,La Florida,Electrónica,Daft Punk,Tablet,37,56.29
+2026-04-13,15:00,La Florida,Pop,Billie Eilish,PC/Laptop,71,34.69
+2026-04-13,15:00,Santiago Centro,Pop,Dua Lipa,Tablet,109,38.37
+2026-04-13,15:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,39,58.18
+2026-04-13,15:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,64,51.92
+2026-04-13,16:00,La Florida,Funk,"Earth, Wind & Fire",Smart TV,33,55.04
+2026-04-13,16:00,Providencia,Alternativo/Latino,Mon Laferte,Smart TV,52,38.17
+2026-04-13,17:00,Providencia,Electrónica,Calvin Harris,PC/Laptop,58,48.26
+2026-04-13,17:00,Santiago Centro,Metal,Metallica,Tablet,21,53.26
+2026-04-13,17:00,La Florida,Alternativo/Latino,Los Bunkers,Smartphone,36,39.24
+2026-04-13,18:00,Maipú,Metal,Slipknot,Smartphone,106,62.54
+2026-04-13,18:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,45,80.43
+2026-04-13,19:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,79,77.61
+2026-04-13,20:00,Las Condes,Funk,Bruno Mars,Smart TV,29,73.09
+2026-04-14,00:00,Pudahuel,Metal,Metallica,PC/Laptop,37,46.31
+2026-04-14,04:00,Santiago Centro,Pop,Dua Lipa,Smartphone,82,39.04
+2026-04-14,18:00,La Florida,Metal,Iron Maiden,Smart TV,70,69.0
+2026-04-14,18:00,Providencia,Funk,Bruno Mars,Smart TV,59,62.06
+2026-04-14,19:00,La Florida,Electrónica,Avicii,PC/Laptop,34,83.27
+2026-04-14,19:00,Providencia,Metal,Slipknot,Tablet,99,72.32
+2026-04-14,22:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smartphone,87,76.86
+2026-04-15,11:00,Las Condes,Electrónica,Avicii,PC/Laptop,38,38.04
+2026-04-15,13:00,Providencia,Funk,Bruno Mars,Tablet,65,33.22
+2026-04-15,13:00,Santiago Centro,Pop,The Weeknd,Tablet,73,29.25
+2026-04-15,15:00,La Florida,Electrónica,Daft Punk,Smartphone,76,41.52
+2026-04-15,16:00,Pudahuel,Electrónica,Avicii,PC/Laptop,34,30.47
+2026-04-15,17:00,Pudahuel,Metal,Metallica,Tablet,25,37.11
+2026-04-15,17:00,La Florida,Funk,Bruno Mars,Smart TV,115,37.23
+2026-04-15,17:00,Providencia,Alternativo/Latino,Los Bunkers,Smart TV,13,47.4
+2026-04-15,18:00,Pudahuel,Metal,Slipknot,Smart TV,91,59.44
+2026-04-15,19:00,Providencia,Funk,Jamiroquai,Tablet,17,77.61
+2026-04-15,19:00,Santiago Centro,Electrónica,Avicii,Smartphone,119,69.36
+2026-04-15,19:00,Pudahuel,Metal,Metallica,Smartphone,48,65.6
+2026-04-15,21:00,Maipú,Metal,Iron Maiden,Smart TV,40,52.53
+2026-04-15,22:00,Providencia,Alternativo/Latino,Mon Laferte,Tablet,92,75.1
+2026-04-15,23:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,14,40.21
+2026-04-16,09:00,Santiago Centro,Electrónica,Avicii,PC/Laptop,42,34.15
+2026-04-16,11:00,Las Condes,Metal,Metallica,PC/Laptop,20,34.01
+2026-04-16,11:00,Providencia,Pop,Billie Eilish,Smart TV,93,34.71
+2026-04-16,14:00,Santiago Centro,Metal,Iron Maiden,Smart TV,106,27.55
+2026-04-16,14:00,Santiago Centro,Electrónica,Calvin Harris,Smartphone,16,52.5
+2026-04-16,15:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,50,43.99
+2026-04-16,15:00,Las Condes,Funk,Jamiroquai,Smartphone,45,49.92
+2026-04-16,16:00,Las Condes,Pop,Dua Lipa,Smartphone,106,13.97
+2026-04-16,18:00,Santiago Centro,Funk,Jamiroquai,PC/Laptop,99,87.96
+2026-04-16,21:00,Pudahuel,Electrónica,Avicii,Tablet,100,76.83
+2026-04-16,21:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,101,68.32
+2026-04-16,21:00,La Florida,Metal,Metallica,Smart TV,12,70.69
+2026-04-17,00:00,La Florida,Pop,Dua Lipa,Tablet,50,45.39
+2026-04-17,00:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,54,50.72
+2026-04-17,01:00,Pudahuel,Funk,Bruno Mars,Smart TV,40,53.45
+2026-04-17,12:00,Maipú,Metal,Slipknot,PC/Laptop,72,47.76
+2026-04-17,14:00,La Florida,Electrónica,Calvin Harris,Smartphone,83,56.39
+2026-04-17,14:00,Providencia,Electrónica,Daft Punk,PC/Laptop,81,52.79
+2026-04-17,15:00,La Florida,Electrónica,Daft Punk,PC/Laptop,118,24.32
+2026-04-17,16:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,73,48.56
+2026-04-17,17:00,Las Condes,Alternativo/Latino,Los Bunkers,PC/Laptop,109,41.17
+2026-04-17,17:00,Maipú,Pop,Dua Lipa,Tablet,33,42.34
+2026-04-17,18:00,Santiago Centro,Alternativo/Latino,Coldplay,Smartphone,46,75.13
+2026-04-17,20:00,Providencia,Metal,Iron Maiden,Tablet,33,76.87
+2026-04-17,20:00,Maipú,Pop,Billie Eilish,Smartphone,39,89.47
+2026-04-17,22:00,Maipú,Metal,Metallica,Smart TV,77,57.41
+2026-04-17,23:00,Maipú,Metal,Slipknot,Smartphone,23,45.56
+2026-04-18,00:00,Providencia,Alternativo/Latino,Coldplay,PC/Laptop,41,45.74
+2026-04-18,03:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,25,44.33
+2026-04-18,11:00,Providencia,Pop,Dua Lipa,Smart TV,91,35.16
+2026-04-18,11:00,Providencia,Electrónica,Daft Punk,Smart TV,49,45.43
+2026-04-18,15:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,54,14.09
+2026-04-18,16:00,Providencia,Alternativo/Latino,Los Bunkers,Smartphone,119,47.59
+2026-04-18,16:00,Providencia,Alternativo/Latino,Coldplay,PC/Laptop,51,38.49
+2026-04-18,18:00,La Florida,Funk,Bruno Mars,PC/Laptop,88,89.54
+2026-04-18,18:00,Santiago Centro,Pop,Dua Lipa,Smartphone,105,68.48
+2026-04-18,18:00,Santiago Centro,Funk,Jamiroquai,Smart TV,42,76.2
+2026-04-18,18:00,La Florida,Pop,The Weeknd,Smart TV,89,57.32
+2026-04-18,18:00,Providencia,Pop,Dua Lipa,PC/Laptop,18,84.41
+2026-04-18,21:00,La Florida,Alternativo/Latino,Coldplay,Smartphone,24,75.73
+2026-04-19,07:00,La Florida,Pop,Billie Eilish,Smartphone,109,37.03
+2026-04-19,11:00,Las Condes,Funk,Jamiroquai,Smartphone,114,50.59
+2026-04-19,13:00,Providencia,Pop,Billie Eilish,Smartphone,64,22.48
+2026-04-19,15:00,Providencia,Pop,Dua Lipa,Tablet,84,43.96
+2026-04-19,16:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Tablet,90,51.54
+2026-04-19,16:00,La Florida,Alternativo/Latino,Los Bunkers,Smart TV,41,38.76
+2026-04-19,17:00,Pudahuel,Pop,Billie Eilish,PC/Laptop,39,37.66
+2026-04-19,20:00,La Florida,Funk,Bruno Mars,Smart TV,51,62.24
+2026-04-19,21:00,La Florida,Funk,Jamiroquai,Smartphone,28,81.12
+2026-04-19,21:00,Las Condes,Pop,The Weeknd,Smartphone,117,71.31
+2026-04-20,10:00,Pudahuel,Pop,The Weeknd,Smart TV,69,36.11
+2026-04-20,13:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,15,57.52
+2026-04-20,13:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smart TV,101,43.1
+2026-04-20,16:00,Providencia,Pop,The Weeknd,PC/Laptop,36,60.77
+2026-04-20,18:00,Santiago Centro,Alternativo/Latino,Coldplay,PC/Laptop,30,88.18
+2026-04-20,20:00,Providencia,Metal,Iron Maiden,Smart TV,38,64.5
+2026-04-20,22:00,La Florida,Metal,Metallica,Smart TV,65,68.74
+2026-04-20,23:00,La Florida,Pop,Dua Lipa,Tablet,118,43.38
+2026-04-21,00:00,La Florida,Funk,Jamiroquai,Smart TV,85,58.97
+2026-04-21,11:00,La Florida,Electrónica,Avicii,PC/Laptop,55,11.68
+2026-04-21,14:00,Santiago Centro,Funk,"Earth, Wind & Fire",Tablet,120,34.98
+2026-04-21,14:00,Santiago Centro,Funk,Jamiroquai,PC/Laptop,53,46.38
+2026-04-21,15:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smartphone,81,48.56
+2026-04-21,20:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,80,76.95
+2026-04-21,22:00,Maipú,Metal,Iron Maiden,PC/Laptop,100,83.95
+2026-04-22,11:00,Providencia,Pop,Billie Eilish,Smartphone,91,48.18
+2026-04-22,12:00,Las Condes,Electrónica,Calvin Harris,PC/Laptop,28,38.51
+2026-04-22,13:00,Pudahuel,Funk,Bruno Mars,Smartphone,49,33.07
+2026-04-22,14:00,La Florida,Alternativo/Latino,Coldplay,Smart TV,119,39.4
+2026-04-22,14:00,La Florida,Funk,Jamiroquai,Tablet,54,36.79
+2026-04-22,14:00,Pudahuel,Metal,Iron Maiden,Smart TV,13,44.71
+2026-04-22,15:00,Maipú,Funk,Bruno Mars,Smartphone,117,31.63
+2026-04-22,15:00,Providencia,Electrónica,Daft Punk,PC/Laptop,118,44.58
+2026-04-22,16:00,Providencia,Pop,The Weeknd,PC/Laptop,10,39.55
+2026-04-22,16:00,Santiago Centro,Metal,Iron Maiden,Smartphone,73,27.21
+2026-04-22,18:00,Pudahuel,Metal,Iron Maiden,Tablet,77,73.44
+2026-04-22,22:00,Las Condes,Electrónica,Avicii,PC/Laptop,32,77.61
+2026-04-22,22:00,Santiago Centro,Electrónica,Avicii,Tablet,91,81.04
+2026-04-23,02:00,Las Condes,Funk,Bruno Mars,Smart TV,120,26.37
+2026-04-23,05:00,La Florida,Metal,Metallica,Tablet,55,41.84
+2026-04-23,16:00,Providencia,Electrónica,Avicii,Smartphone,72,42.87
+2026-04-23,18:00,Las Condes,Metal,Iron Maiden,Smartphone,104,85.51
+2026-04-23,19:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,56,70.85
+2026-04-23,20:00,Providencia,Funk,Bruno Mars,Smartphone,70,94.0
+2026-04-23,20:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,31,94.35
+2026-04-23,21:00,La Florida,Funk,Jamiroquai,Smartphone,90,73.4
+2026-04-23,22:00,Maipú,Metal,Iron Maiden,Tablet,10,70.37
+2026-04-24,01:00,Providencia,Pop,The Weeknd,Smart TV,70,55.43
+2026-04-24,09:00,La Florida,Electrónica,Calvin Harris,Smartphone,55,29.92
+2026-04-24,10:00,Maipú,Pop,The Weeknd,Smartphone,20,53.18
+2026-04-24,11:00,La Florida,Funk,"Earth, Wind & Fire",Tablet,63,40.48
+2026-04-24,13:00,Providencia,Metal,Slipknot,Tablet,111,44.82
+2026-04-24,13:00,Santiago Centro,Electrónica,Avicii,Tablet,87,20.34
+2026-04-24,13:00,Maipú,Electrónica,Calvin Harris,Smartphone,86,26.47
+2026-04-24,13:00,Las Condes,Alternativo/Latino,Coldplay,Tablet,35,40.86
+2026-04-24,16:00,Maipú,Electrónica,Calvin Harris,PC/Laptop,84,49.13
+2026-04-24,17:00,Maipú,Electrónica,Avicii,Smartphone,55,60.47
+2026-04-24,18:00,La Florida,Electrónica,Avicii,Smartphone,120,79.25
+2026-04-24,19:00,Las Condes,Alternativo/Latino,Coldplay,Tablet,30,80.61
+2026-04-24,19:00,Pudahuel,Metal,Iron Maiden,PC/Laptop,46,89.75
+2026-04-24,19:00,La Florida,Funk,"Earth, Wind & Fire",Smart TV,30,59.64
+2026-04-24,19:00,Maipú,Alternativo/Latino,Coldplay,Tablet,104,66.74
+2026-04-24,21:00,Pudahuel,Metal,Slipknot,Smartphone,107,82.21
+2026-04-25,10:00,Maipú,Alternativo/Latino,Mon Laferte,Smart TV,113,54.96
+2026-04-25,15:00,Santiago Centro,Electrónica,Calvin Harris,Smartphone,43,51.89
+2026-04-25,15:00,Pudahuel,Funk,Jamiroquai,Smartphone,14,57.19
+2026-04-25,18:00,Maipú,Funk,Jamiroquai,Smart TV,69,84.69
+2026-04-25,19:00,Pudahuel,Funk,Bruno Mars,PC/Laptop,41,78.12
+2026-04-25,20:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,72,74.38
+2026-04-25,22:00,Maipú,Metal,Metallica,PC/Laptop,26,68.43
+2026-04-25,22:00,Providencia,Funk,"Earth, Wind & Fire",Tablet,21,70.37
+2026-04-26,12:00,Pudahuel,Pop,Dua Lipa,Smartphone,50,41.83
+2026-04-26,16:00,Pudahuel,Pop,Dua Lipa,Smart TV,98,53.76
+2026-04-26,16:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,73,24.37
+2026-04-26,18:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,61,66.39
+2026-04-26,18:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,105,89.12
+2026-04-26,19:00,Providencia,Funk,"Earth, Wind & Fire",Smart TV,112,49.68
+2026-04-26,21:00,Maipú,Electrónica,Avicii,Tablet,20,72.63
+2026-04-26,22:00,Las Condes,Pop,Dua Lipa,Smartphone,72,64.6
+2026-04-27,00:00,Pudahuel,Pop,Billie Eilish,Tablet,63,50.14
+2026-04-27,12:00,Santiago Centro,Funk,Bruno Mars,Tablet,29,35.79
+2026-04-27,14:00,Santiago Centro,Funk,Bruno Mars,Smart TV,42,40.38
+2026-04-27,15:00,La Florida,Electrónica,Daft Punk,Smart TV,55,41.11
+2026-04-27,16:00,Maipú,Alternativo/Latino,Coldplay,Smart TV,70,43.47
+2026-04-27,17:00,Las Condes,Metal,Iron Maiden,PC/Laptop,86,44.02
+2026-04-27,17:00,Santiago Centro,Alternativo/Latino,Coldplay,PC/Laptop,63,49.55
+2026-04-27,20:00,Santiago Centro,Funk,"Earth, Wind & Fire",PC/Laptop,38,75.5
+2026-04-27,20:00,Pudahuel,Electrónica,Avicii,Tablet,98,69.47
+2026-04-27,21:00,Las Condes,Funk,"Earth, Wind & Fire",Tablet,34,80.13
+2026-04-28,00:00,Pudahuel,Pop,Billie Eilish,Tablet,68,50.1
+2026-04-28,01:00,Pudahuel,Pop,Billie Eilish,Smartphone,71,34.69
+2026-04-28,01:00,La Florida,Funk,Bruno Mars,Tablet,44,56.26
+2026-04-28,12:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,74,24.0
+2026-04-28,13:00,Maipú,Alternativo/Latino,Los Bunkers,Smartphone,98,32.48
+2026-04-28,15:00,Maipú,Pop,The Weeknd,Smart TV,93,28.26
+2026-04-28,16:00,Las Condes,Metal,Slipknot,PC/Laptop,48,15.76
+2026-04-28,18:00,Las Condes,Funk,Bruno Mars,Smartphone,83,78.65
+2026-04-28,18:00,Maipú,Funk,"Earth, Wind & Fire",Smartphone,87,68.38
+2026-04-28,22:00,Las Condes,Electrónica,Calvin Harris,Tablet,105,65.19
+2026-04-28,23:00,La Florida,Metal,Iron Maiden,PC/Laptop,103,32.92
+2026-04-28,23:00,La Florida,Funk,Jamiroquai,PC/Laptop,111,49.26
+2026-04-29,09:00,Maipú,Electrónica,Calvin Harris,PC/Laptop,75,50.97
+2026-04-29,10:00,Maipú,Funk,Jamiroquai,Smart TV,90,46.2
+2026-04-29,13:00,Santiago Centro,Pop,Billie Eilish,PC/Laptop,113,36.84
+2026-04-29,15:00,Providencia,Electrónica,Avicii,PC/Laptop,97,58.52
+2026-04-29,15:00,Maipú,Pop,Dua Lipa,Tablet,51,46.8
+2026-04-29,15:00,La Florida,Pop,The Weeknd,Smartphone,59,28.1
+2026-04-29,16:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,53,27.52
+2026-04-29,17:00,La Florida,Metal,Iron Maiden,Smart TV,116,48.84
+2026-04-29,17:00,Las Condes,Electrónica,Avicii,PC/Laptop,10,47.72
+2026-04-29,18:00,La Florida,Alternativo/Latino,Los Bunkers,Smart TV,106,63.57
+2026-04-29,19:00,Las Condes,Funk,Bruno Mars,Smartphone,97,82.35
+2026-04-29,19:00,La Florida,Pop,Dua Lipa,Smartphone,117,85.7
+2026-04-29,19:00,Santiago Centro,Pop,Dua Lipa,PC/Laptop,64,86.01
+2026-04-29,19:00,Pudahuel,Pop,The Weeknd,PC/Laptop,101,69.65
+2026-04-29,20:00,Pudahuel,Metal,Metallica,Smartphone,17,84.57
+2026-04-29,20:00,La Florida,Metal,Iron Maiden,PC/Laptop,16,83.85
+2026-04-29,21:00,Maipú,Electrónica,Avicii,PC/Laptop,16,70.34
+2026-04-29,21:00,Maipú,Electrónica,Avicii,Smart TV,77,76.39
+2026-04-29,22:00,La Florida,Alternativo/Latino,Coldplay,Tablet,115,86.69
+2026-04-30,12:00,Maipú,Pop,Dua Lipa,Tablet,28,59.87
+2026-04-30,15:00,Providencia,Pop,Dua Lipa,Smart TV,29,40.34
+2026-04-30,16:00,Maipú,Alternativo/Latino,Los Bunkers,Smartphone,60,50.89
+2026-04-30,17:00,Las Condes,Pop,Dua Lipa,Smart TV,32,39.93
+2026-04-30,18:00,Pudahuel,Electrónica,Calvin Harris,PC/Laptop,28,67.45
+2026-04-30,18:00,La Florida,Pop,Billie Eilish,Tablet,94,75.51
+2026-04-30,21:00,Las Condes,Metal,Metallica,Tablet,22,80.75
+2026-04-30,23:00,Providencia,Funk,Jamiroquai,Smart TV,38,49.97
+2026-05-01,01:00,Pudahuel,Funk,Bruno Mars,PC/Laptop,35,40.18
+2026-05-01,07:00,Pudahuel,Funk,"Earth, Wind & Fire",Smart TV,105,39.46
+2026-05-01,11:00,Santiago Centro,Metal,Slipknot,Tablet,65,30.4
+2026-05-01,12:00,Maipú,Pop,The Weeknd,Smart TV,52,39.88
+2026-05-01,15:00,Santiago Centro,Funk,Jamiroquai,PC/Laptop,119,26.3
+2026-05-01,17:00,Pudahuel,Pop,The Weeknd,Smartphone,11,45.52
+2026-05-01,17:00,Maipú,Metal,Iron Maiden,Tablet,116,32.55
+2026-05-01,20:00,Maipú,Electrónica,Avicii,Tablet,69,74.44
+2026-05-01,20:00,Santiago Centro,Alternativo/Latino,Coldplay,Smart TV,57,92.96
+2026-05-01,21:00,Providencia,Electrónica,Calvin Harris,Smart TV,64,61.28
+2026-05-02,00:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,15,36.78
+2026-05-02,12:00,La Florida,Pop,The Weeknd,PC/Laptop,34,41.58
+2026-05-02,15:00,Las Condes,Funk,Jamiroquai,PC/Laptop,51,37.52
+2026-05-02,16:00,Santiago Centro,Alternativo/Latino,Coldplay,Smart TV,57,43.7
+2026-05-02,18:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,30,62.03
+2026-05-02,20:00,Pudahuel,Electrónica,Calvin Harris,Tablet,72,70.12
+2026-05-02,20:00,Pudahuel,Electrónica,Avicii,Tablet,91,63.59
+2026-05-02,21:00,La Florida,Metal,Metallica,PC/Laptop,91,84.18
+2026-05-02,21:00,Las Condes,Pop,Billie Eilish,PC/Laptop,12,79.51
+2026-05-02,22:00,Providencia,Electrónica,Daft Punk,Smart TV,108,85.54
+2026-05-02,22:00,Santiago Centro,Electrónica,Avicii,PC/Laptop,20,91.55
+2026-05-02,23:00,Providencia,Metal,Metallica,Smartphone,94,34.82
+2026-05-03,09:00,Pudahuel,Pop,The Weeknd,Tablet,103,36.8
+2026-05-03,17:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smart TV,46,35.6
+2026-05-03,18:00,Maipú,Metal,Slipknot,Smart TV,81,85.65
+2026-05-03,19:00,Maipú,Alternativo/Latino,Los Bunkers,Tablet,28,77.08
+2026-05-03,20:00,Providencia,Pop,The Weeknd,Smart TV,117,78.62
+2026-05-03,21:00,Providencia,Electrónica,Daft Punk,Smartphone,42,78.07
+2026-05-03,21:00,Pudahuel,Pop,Dua Lipa,Tablet,19,81.3
+2026-05-04,00:00,Santiago Centro,Pop,Billie Eilish,Tablet,39,53.15
+2026-05-04,00:00,Providencia,Electrónica,Avicii,Smartphone,64,48.97
+2026-05-04,10:00,Providencia,Metal,Iron Maiden,PC/Laptop,50,27.2
+2026-05-04,14:00,Las Condes,Funk,"Earth, Wind & Fire",Tablet,98,55.32
+2026-05-04,15:00,La Florida,Electrónica,Daft Punk,Tablet,98,41.77
+2026-05-04,16:00,Las Condes,Electrónica,Avicii,Tablet,53,47.12
+2026-05-04,17:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smart TV,22,45.88
+2026-05-04,18:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,46,82.26
+2026-05-04,18:00,Providencia,Pop,Billie Eilish,Smartphone,14,63.49
+2026-05-04,19:00,La Florida,Metal,Slipknot,Smartphone,109,80.09
+2026-05-04,19:00,Santiago Centro,Metal,Metallica,PC/Laptop,112,53.67
+2026-05-04,20:00,Las Condes,Metal,Metallica,Tablet,49,75.9
+2026-05-04,20:00,La Florida,Electrónica,Daft Punk,Smart TV,16,84.38
+2026-05-05,07:00,Pudahuel,Pop,Billie Eilish,Smart TV,87,35.0
+2026-05-05,11:00,Las Condes,Alternativo/Latino,Mon Laferte,PC/Laptop,35,31.72
+2026-05-05,14:00,Las Condes,Pop,The Weeknd,Smartphone,40,44.92
+2026-05-05,17:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,41,43.57
+2026-05-05,17:00,Santiago Centro,Electrónica,Avicii,Smartphone,60,35.28
+2026-05-05,19:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,35,73.13
+2026-05-05,22:00,Pudahuel,Electrónica,Daft Punk,Tablet,52,60.77
+2026-05-05,23:00,Maipú,Electrónica,Avicii,Smart TV,113,26.91
+2026-05-06,02:00,La Florida,Metal,Slipknot,Smart TV,12,45.71
+2026-05-06,12:00,Pudahuel,Funk,Bruno Mars,Smartphone,56,31.81
+2026-05-06,13:00,Santiago Centro,Pop,Billie Eilish,Tablet,116,44.74
+2026-05-06,13:00,La Florida,Pop,Dua Lipa,Tablet,76,29.58
+2026-05-06,14:00,Providencia,Pop,Billie Eilish,Smart TV,38,44.62
+2026-05-06,14:00,Maipú,Pop,The Weeknd,PC/Laptop,62,36.9
+2026-05-06,15:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Tablet,14,30.82
+2026-05-06,16:00,La Florida,Pop,Billie Eilish,PC/Laptop,48,31.61
+2026-05-06,17:00,Pudahuel,Metal,Metallica,PC/Laptop,36,27.01
+2026-05-06,18:00,Pudahuel,Alternativo/Latino,Coldplay,Smart TV,80,88.03
+2026-05-06,19:00,Pudahuel,Pop,The Weeknd,Smart TV,70,68.07
+2026-05-06,22:00,Pudahuel,Metal,Slipknot,Smart TV,21,62.9
+2026-05-06,23:00,Pudahuel,Metal,Iron Maiden,Tablet,74,28.32
+2026-05-07,00:00,Maipú,Pop,Billie Eilish,Tablet,45,44.36
+2026-05-07,14:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,118,47.0
+2026-05-07,14:00,Pudahuel,Funk,Bruno Mars,PC/Laptop,71,44.2
+2026-05-07,15:00,Pudahuel,Pop,Billie Eilish,PC/Laptop,59,29.41
+2026-05-07,17:00,Maipú,Pop,The Weeknd,Smartphone,98,40.58
+2026-05-07,17:00,Las Condes,Funk,Bruno Mars,Smart TV,108,25.95
+2026-05-07,18:00,Santiago Centro,Pop,Dua Lipa,Tablet,100,80.54
+2026-05-07,22:00,Providencia,Metal,Iron Maiden,PC/Laptop,86,82.77
+2026-05-08,07:00,La Florida,Funk,"Earth, Wind & Fire",Smart TV,112,50.92
+2026-05-08,10:00,Las Condes,Pop,The Weeknd,Tablet,40,48.93
+2026-05-08,11:00,Providencia,Metal,Iron Maiden,Smart TV,56,28.73
+2026-05-08,12:00,Las Condes,Alternativo/Latino,Mon Laferte,PC/Laptop,101,27.05
+2026-05-08,13:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,10,31.05
+2026-05-08,14:00,Pudahuel,Pop,Dua Lipa,Tablet,40,66.32
+2026-05-08,14:00,La Florida,Metal,Slipknot,Smart TV,62,29.96
+2026-05-08,14:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,61,40.98
+2026-05-08,16:00,Pudahuel,Electrónica,Avicii,Tablet,31,32.72
+2026-05-08,17:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,10,57.72
+2026-05-08,17:00,Las Condes,Pop,The Weeknd,Smart TV,54,36.92
+2026-05-08,17:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,113,31.67
+2026-05-08,18:00,Providencia,Electrónica,Daft Punk,Tablet,105,71.33
+2026-05-08,20:00,Pudahuel,Alternativo/Latino,Coldplay,Smartphone,17,62.61
+2026-05-08,20:00,Santiago Centro,Electrónica,Calvin Harris,Smartphone,32,76.26
+2026-05-08,22:00,Santiago Centro,Electrónica,Calvin Harris,Tablet,59,68.9
+2026-05-08,23:00,Santiago Centro,Metal,Metallica,Tablet,36,43.13
+2026-05-09,06:00,Maipú,Alternativo/Latino,Mon Laferte,Smart TV,68,51.2
+2026-05-09,09:00,Las Condes,Funk,Bruno Mars,Smart TV,33,55.33
+2026-05-09,13:00,Santiago Centro,Metal,Iron Maiden,Tablet,113,19.61
+2026-05-09,13:00,La Florida,Alternativo/Latino,Mon Laferte,Smartphone,22,46.23
+2026-05-09,14:00,Las Condes,Electrónica,Daft Punk,Tablet,22,34.01
+2026-05-09,16:00,Pudahuel,Pop,The Weeknd,PC/Laptop,48,39.43
+2026-05-09,17:00,Providencia,Alternativo/Latino,Los Bunkers,Smartphone,15,23.57
+2026-05-09,18:00,La Florida,Funk,Jamiroquai,Smartphone,22,68.19
+2026-05-09,19:00,Las Condes,Pop,Dua Lipa,Smart TV,67,66.39
+2026-05-10,00:00,Las Condes,Pop,The Weeknd,PC/Laptop,101,47.67
+2026-05-10,09:00,Pudahuel,Funk,Bruno Mars,Tablet,49,51.95
+2026-05-10,10:00,Pudahuel,Electrónica,Calvin Harris,Tablet,14,36.48
+2026-05-10,14:00,Maipú,Funk,Bruno Mars,Tablet,21,34.95
+2026-05-10,14:00,La Florida,Pop,The Weeknd,Tablet,108,42.38
+2026-05-10,17:00,Providencia,Electrónica,Daft Punk,Smartphone,52,46.75
+2026-05-10,19:00,La Florida,Funk,"Earth, Wind & Fire",PC/Laptop,66,83.2
+2026-05-10,21:00,Providencia,Metal,Slipknot,Smartphone,32,69.17
+2026-05-10,22:00,Pudahuel,Funk,Bruno Mars,PC/Laptop,34,65.02
+2026-05-11,15:00,Pudahuel,Funk,"Earth, Wind & Fire",Smartphone,94,21.69
+2026-05-11,16:00,Maipú,Electrónica,Calvin Harris,PC/Laptop,40,35.67
+2026-05-11,16:00,Santiago Centro,Funk,Jamiroquai,PC/Laptop,16,38.9
+2026-05-11,16:00,Las Condes,Funk,Jamiroquai,Smart TV,17,19.74
+2026-05-11,17:00,La Florida,Electrónica,Avicii,Smart TV,48,27.76
+2026-05-11,17:00,Santiago Centro,Metal,Iron Maiden,Smartphone,25,31.52
+2026-05-11,19:00,Providencia,Funk,Jamiroquai,Smart TV,93,74.76
+2026-05-11,20:00,La Florida,Metal,Metallica,Smart TV,108,70.99
+2026-05-11,20:00,Santiago Centro,Pop,Billie Eilish,Smartphone,48,77.98
+2026-05-11,21:00,Pudahuel,Pop,Billie Eilish,PC/Laptop,15,97.11
+2026-05-11,21:00,Providencia,Alternativo/Latino,Coldplay,Tablet,87,74.41
+2026-05-12,00:00,La Florida,Pop,Billie Eilish,Tablet,17,44.54
+2026-05-12,12:00,Pudahuel,Alternativo/Latino,Coldplay,Tablet,16,25.93
+2026-05-12,12:00,Providencia,Funk,Jamiroquai,Tablet,107,48.72
+2026-05-12,20:00,Maipú,Metal,Metallica,PC/Laptop,88,70.65
+2026-05-12,21:00,Providencia,Alternativo/Latino,Los Bunkers,Smart TV,63,90.38
+2026-05-12,21:00,La Florida,Electrónica,Avicii,Tablet,29,92.03
+2026-05-13,06:00,Pudahuel,Metal,Iron Maiden,Tablet,60,60.53
+2026-05-13,12:00,Santiago Centro,Pop,Dua Lipa,PC/Laptop,91,47.43
+2026-05-13,15:00,Santiago Centro,Electrónica,Calvin Harris,Tablet,53,35.15
+2026-05-13,19:00,Las Condes,Alternativo/Latino,Los Bunkers,Smartphone,106,76.68
+2026-05-13,20:00,Providencia,Electrónica,Avicii,Smartphone,11,72.05
+2026-05-13,21:00,La Florida,Funk,"Earth, Wind & Fire",PC/Laptop,84,73.53
+2026-05-13,23:00,Las Condes,Pop,The Weeknd,Smart TV,41,53.96
+2026-05-14,00:00,Santiago Centro,Metal,Slipknot,Smart TV,13,48.54
+2026-05-14,12:00,Providencia,Metal,Iron Maiden,Tablet,19,30.62
+2026-05-14,15:00,Las Condes,Electrónica,Daft Punk,Smart TV,26,42.79
+2026-05-14,15:00,Las Condes,Alternativo/Latino,Coldplay,Tablet,97,21.33
+2026-05-14,16:00,Santiago Centro,Alternativo/Latino,Coldplay,PC/Laptop,98,34.26
+2026-05-14,17:00,Las Condes,Metal,Iron Maiden,Tablet,18,32.46
+2026-05-14,17:00,Providencia,Funk,Jamiroquai,Smart TV,94,22.24
+2026-05-14,19:00,La Florida,Electrónica,Avicii,Tablet,69,82.75
+2026-05-14,23:00,Providencia,Funk,"Earth, Wind & Fire",Smart TV,120,34.08
+2026-05-15,09:00,Providencia,Pop,The Weeknd,PC/Laptop,62,34.74
+2026-05-15,12:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,88,43.64
+2026-05-15,14:00,Providencia,Pop,Dua Lipa,PC/Laptop,113,38.56
+2026-05-15,16:00,La Florida,Funk,Bruno Mars,PC/Laptop,58,33.52
+2026-05-15,16:00,Santiago Centro,Electrónica,Daft Punk,Smart TV,100,36.64
+2026-05-15,17:00,Providencia,Funk,Bruno Mars,Smartphone,74,36.3
+2026-05-15,18:00,Providencia,Funk,Bruno Mars,Tablet,25,45.09
+2026-05-15,19:00,Las Condes,Alternativo/Latino,Coldplay,PC/Laptop,88,79.04
+2026-05-15,21:00,Maipú,Metal,Metallica,Smart TV,114,68.47
+2026-05-16,00:00,Providencia,Pop,Dua Lipa,Tablet,58,53.81
+2026-05-16,01:00,Maipú,Pop,The Weeknd,Smartphone,118,41.75
+2026-05-16,11:00,Santiago Centro,Funk,"Earth, Wind & Fire",Smartphone,24,34.76
+2026-05-16,12:00,Pudahuel,Alternativo/Latino,Coldplay,PC/Laptop,69,34.35
+2026-05-16,17:00,La Florida,Electrónica,Avicii,Smart TV,12,25.69
+2026-05-16,19:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,79,80.05
+2026-05-16,19:00,Providencia,Metal,Metallica,Tablet,62,71.42
+2026-05-16,22:00,Providencia,Funk,Bruno Mars,Smartphone,67,70.43
+2026-05-17,00:00,Las Condes,Electrónica,Calvin Harris,Smartphone,72,55.23
+2026-05-17,02:00,Providencia,Electrónica,Daft Punk,Smart TV,11,50.32
+2026-05-17,13:00,Santiago Centro,Funk,Bruno Mars,Tablet,35,52.36
+2026-05-17,13:00,Providencia,Pop,Billie Eilish,Smart TV,17,31.75
+2026-05-17,13:00,Maipú,Electrónica,Daft Punk,PC/Laptop,45,41.72
+2026-05-17,15:00,Santiago Centro,Funk,Jamiroquai,Smartphone,13,50.3
+2026-05-17,15:00,La Florida,Electrónica,Calvin Harris,Smart TV,52,42.63
+2026-05-17,16:00,Santiago Centro,Pop,Dua Lipa,Smart TV,92,54.44
+2026-05-17,16:00,Providencia,Electrónica,Calvin Harris,Tablet,91,30.35
+2026-05-17,17:00,Las Condes,Pop,The Weeknd,Smartphone,94,30.41
+2026-05-17,17:00,Santiago Centro,Pop,Dua Lipa,Tablet,70,35.76
+2026-05-17,17:00,La Florida,Funk,Jamiroquai,Smartphone,95,36.43
+2026-05-17,18:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,85,78.48
+2026-05-17,18:00,La Florida,Electrónica,Calvin Harris,Smart TV,56,69.36
+2026-05-17,20:00,Pudahuel,Funk,"Earth, Wind & Fire",Smart TV,11,45.6
+2026-05-17,22:00,Las Condes,Electrónica,Daft Punk,Smartphone,27,88.41
+2026-05-18,01:00,Providencia,Pop,The Weeknd,Tablet,76,38.09
+2026-05-18,02:00,La Florida,Metal,Metallica,PC/Laptop,104,20.48
+2026-05-18,02:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,16,51.91
+2026-05-18,13:00,Las Condes,Pop,The Weeknd,Smartphone,36,51.88
+2026-05-18,14:00,Santiago Centro,Pop,Billie Eilish,Smart TV,32,47.87
+2026-05-18,15:00,La Florida,Metal,Metallica,Smart TV,58,43.77
+2026-05-18,15:00,Maipú,Electrónica,Calvin Harris,Smartphone,48,34.61
+2026-05-18,16:00,Providencia,Metal,Metallica,Smart TV,119,41.94
+2026-05-18,18:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,97,79.42
+2026-05-18,19:00,Santiago Centro,Electrónica,Daft Punk,Smart TV,65,71.15
+2026-05-18,19:00,Las Condes,Metal,Slipknot,Smartphone,94,74.78
+2026-05-18,21:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,54,65.91
+2026-05-18,21:00,Pudahuel,Metal,Slipknot,Smart TV,112,72.48
+2026-05-18,22:00,Maipú,Electrónica,Calvin Harris,PC/Laptop,68,77.39
+2026-05-18,22:00,Santiago Centro,Pop,The Weeknd,PC/Laptop,73,88.86
+2026-05-19,02:00,Pudahuel,Electrónica,Daft Punk,Smartphone,109,46.34
+2026-05-19,14:00,Las Condes,Metal,Iron Maiden,PC/Laptop,29,51.25
+2026-05-19,14:00,Las Condes,Pop,The Weeknd,PC/Laptop,106,48.3
+2026-05-19,15:00,Santiago Centro,Electrónica,Daft Punk,PC/Laptop,111,25.92
+2026-05-19,17:00,Maipú,Alternativo/Latino,Los Bunkers,Tablet,90,42.86
+2026-05-19,17:00,Las Condes,Electrónica,Daft Punk,Smart TV,102,31.03
+2026-05-19,18:00,Providencia,Metal,Iron Maiden,Tablet,38,85.01
+2026-05-19,19:00,La Florida,Metal,Slipknot,Smart TV,61,68.55
+2026-05-19,19:00,La Florida,Pop,The Weeknd,Smartphone,117,79.57
+2026-05-19,19:00,Santiago Centro,Alternativo/Latino,Coldplay,Smart TV,28,82.79
+2026-05-19,19:00,Santiago Centro,Metal,Metallica,Smart TV,76,79.7
+2026-05-19,21:00,La Florida,Electrónica,Daft Punk,Smart TV,75,70.68
+2026-05-19,21:00,Las Condes,Pop,Billie Eilish,Tablet,25,69.5
+2026-05-19,22:00,Santiago Centro,Alternativo/Latino,Coldplay,PC/Laptop,99,77.23
+2026-05-20,15:00,Providencia,Pop,Dua Lipa,PC/Laptop,30,43.92
+2026-05-20,18:00,Maipú,Pop,Dua Lipa,Smart TV,85,80.14
+2026-05-20,18:00,Providencia,Electrónica,Avicii,Smart TV,59,74.91
+2026-05-20,18:00,Las Condes,Electrónica,Daft Punk,Smartphone,82,75.69
+2026-05-20,19:00,Maipú,Metal,Iron Maiden,PC/Laptop,34,74.51
+2026-05-20,20:00,La Florida,Electrónica,Avicii,Smartphone,95,96.9
+2026-05-20,20:00,Pudahuel,Funk,Bruno Mars,Smart TV,71,66.02
+2026-05-20,20:00,Las Condes,Electrónica,Avicii,Smart TV,70,65.52
+2026-05-20,22:00,Santiago Centro,Metal,Iron Maiden,Smart TV,11,73.8
+2026-05-20,23:00,Maipú,Funk,Bruno Mars,Smartphone,41,35.52
+2026-05-21,13:00,Santiago Centro,Pop,Billie Eilish,Smart TV,53,29.14
+2026-05-21,14:00,Las Condes,Metal,Slipknot,Tablet,110,18.47
+2026-05-21,14:00,Providencia,Electrónica,Calvin Harris,Tablet,54,31.63
+2026-05-21,14:00,Santiago Centro,Electrónica,Calvin Harris,PC/Laptop,61,53.04
+2026-05-21,15:00,Santiago Centro,Electrónica,Calvin Harris,Tablet,115,36.84
+2026-05-21,17:00,La Florida,Electrónica,Calvin Harris,Tablet,102,43.52
+2026-05-21,17:00,La Florida,Electrónica,Calvin Harris,Tablet,67,35.5
+2026-05-21,17:00,La Florida,Electrónica,Calvin Harris,Smartphone,107,39.36
+2026-05-21,17:00,Providencia,Pop,Dua Lipa,Smartphone,56,36.73
+2026-05-21,20:00,Las Condes,Metal,Slipknot,PC/Laptop,31,95.1
+2026-05-21,20:00,Providencia,Alternativo/Latino,Mon Laferte,Smart TV,95,81.15
+2026-05-21,20:00,Providencia,Pop,Billie Eilish,Smart TV,82,73.19
+2026-05-22,01:00,La Florida,Metal,Metallica,PC/Laptop,89,50.8
+2026-05-22,07:00,Maipú,Alternativo/Latino,Mon Laferte,Smartphone,19,48.22
+2026-05-22,09:00,Las Condes,Metal,Metallica,Smartphone,10,48.47
+2026-05-22,11:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,37,31.94
+2026-05-22,11:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,18,55.03
+2026-05-22,14:00,Santiago Centro,Pop,Billie Eilish,Smart TV,24,34.34
+2026-05-22,17:00,La Florida,Alternativo/Latino,Coldplay,Smart TV,48,57.12
+2026-05-22,17:00,Providencia,Electrónica,Calvin Harris,PC/Laptop,119,44.79
+2026-05-22,18:00,Las Condes,Electrónica,Calvin Harris,Smart TV,55,71.15
+2026-05-22,18:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,65,76.5
+2026-05-22,18:00,Santiago Centro,Metal,Slipknot,Smart TV,88,73.16
+2026-05-22,19:00,Maipú,Pop,Dua Lipa,Tablet,120,78.89
+2026-05-22,19:00,La Florida,Alternativo/Latino,Los Bunkers,Tablet,70,55.72
+2026-05-22,20:00,Pudahuel,Electrónica,Daft Punk,Tablet,89,81.26
+2026-05-22,20:00,Providencia,Pop,Dua Lipa,Smart TV,73,88.29
+2026-05-22,23:00,Las Condes,Funk,"Earth, Wind & Fire",Smart TV,34,49.59
+2026-05-23,08:00,Providencia,Pop,The Weeknd,Smart TV,96,38.66
+2026-05-23,09:00,Providencia,Electrónica,Daft Punk,Smartphone,26,41.78
+2026-05-23,13:00,Las Condes,Pop,Billie Eilish,Smart TV,75,10.79
+2026-05-23,14:00,Maipú,Pop,Dua Lipa,PC/Laptop,112,41.54
+2026-05-23,16:00,La Florida,Funk,"Earth, Wind & Fire",Smart TV,102,31.5
+2026-05-23,16:00,La Florida,Funk,"Earth, Wind & Fire",Smartphone,115,48.74
+2026-05-23,16:00,Las Condes,Pop,Billie Eilish,Smart TV,117,41.52
+2026-05-23,18:00,Las Condes,Metal,Iron Maiden,PC/Laptop,42,68.0
+2026-05-23,18:00,Providencia,Electrónica,Calvin Harris,PC/Laptop,46,67.42
+2026-05-23,20:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,49,74.02
+2026-05-24,13:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,40,26.8
+2026-05-24,13:00,Providencia,Funk,"Earth, Wind & Fire",Smartphone,118,64.12
+2026-05-24,16:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,43,48.45
+2026-05-24,19:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,115,84.04
+2026-05-24,19:00,Las Condes,Electrónica,Calvin Harris,Smart TV,38,77.6
+2026-05-24,19:00,La Florida,Funk,Jamiroquai,Smartphone,111,85.91
+2026-05-24,20:00,Maipú,Electrónica,Avicii,Smartphone,38,71.27
+2026-05-24,20:00,Santiago Centro,Electrónica,Calvin Harris,Smartphone,65,67.63
+2026-05-24,21:00,La Florida,Electrónica,Daft Punk,Tablet,120,63.7
+2026-05-24,22:00,Maipú,Electrónica,Avicii,Smart TV,19,67.97
+2026-05-25,01:00,Maipú,Metal,Metallica,Smart TV,80,29.3
+2026-05-25,10:00,La Florida,Pop,The Weeknd,Smart TV,20,41.15
+2026-05-25,15:00,Pudahuel,Alternativo/Latino,Coldplay,Smart TV,102,42.24
+2026-05-25,18:00,Pudahuel,Pop,Billie Eilish,Smartphone,92,65.22
+2026-05-25,19:00,Santiago Centro,Funk,Jamiroquai,Smart TV,52,81.11
+2026-05-25,19:00,Pudahuel,Electrónica,Avicii,Smart TV,62,96.65
+2026-05-25,20:00,Santiago Centro,Pop,Billie Eilish,Smartphone,81,81.1
+2026-05-25,21:00,Las Condes,Funk,Bruno Mars,Smart TV,120,71.74
+2026-05-25,22:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,73,64.29
+2026-05-26,00:00,Providencia,Electrónica,Daft Punk,Smartphone,97,48.77
+2026-05-26,10:00,Maipú,Metal,Metallica,Smartphone,105,40.47
+2026-05-26,11:00,Providencia,Electrónica,Avicii,PC/Laptop,107,44.4
+2026-05-26,13:00,Santiago Centro,Funk,Jamiroquai,Tablet,98,27.86
+2026-05-26,16:00,Santiago Centro,Funk,Bruno Mars,Smartphone,48,67.2
+2026-05-26,17:00,Santiago Centro,Electrónica,Calvin Harris,PC/Laptop,10,36.97
+2026-05-26,17:00,Las Condes,Metal,Slipknot,PC/Laptop,39,36.43
+2026-05-26,18:00,Providencia,Funk,Jamiroquai,PC/Laptop,110,84.38
+2026-05-26,19:00,Maipú,Metal,Metallica,Smart TV,51,59.53
+2026-05-26,19:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smartphone,75,65.18
+2026-05-26,22:00,Maipú,Metal,Metallica,Tablet,47,61.88
+2026-05-26,22:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,54,69.87
+2026-05-27,09:00,Santiago Centro,Funk,Bruno Mars,PC/Laptop,88,56.96
+2026-05-27,11:00,Maipú,Pop,Billie Eilish,PC/Laptop,21,36.08
+2026-05-27,15:00,Las Condes,Funk,Bruno Mars,Smartphone,49,39.09
+2026-05-27,15:00,Providencia,Metal,Slipknot,Smartphone,101,48.33
+2026-05-27,16:00,Providencia,Metal,Slipknot,Smartphone,77,24.97
+2026-05-27,16:00,La Florida,Funk,Bruno Mars,Tablet,77,41.55
+2026-05-27,19:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,87,86.91
+2026-05-27,21:00,La Florida,Metal,Iron Maiden,Tablet,74,52.89
+2026-05-27,21:00,Santiago Centro,Metal,Slipknot,PC/Laptop,73,91.16
+2026-05-28,12:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smart TV,40,47.46
+2026-05-28,13:00,Las Condes,Pop,The Weeknd,Smart TV,58,48.2
+2026-05-28,14:00,Providencia,Funk,Jamiroquai,Smart TV,48,37.63
+2026-05-28,14:00,La Florida,Pop,Billie Eilish,PC/Laptop,113,34.4
+2026-05-28,15:00,Las Condes,Metal,Metallica,Tablet,38,31.36
+2026-05-28,15:00,Pudahuel,Alternativo/Latino,Los Bunkers,Tablet,71,48.6
+2026-05-28,16:00,La Florida,Funk,"Earth, Wind & Fire",PC/Laptop,19,33.47
+2026-05-28,18:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,34,79.98
+2026-05-28,18:00,Providencia,Electrónica,Avicii,Smart TV,87,95.42
+2026-05-28,19:00,Santiago Centro,Metal,Slipknot,Tablet,89,57.97
+2026-05-28,20:00,La Florida,Pop,Dua Lipa,Tablet,75,79.14
+2026-05-28,20:00,Santiago Centro,Funk,Bruno Mars,PC/Laptop,119,77.33
+2026-05-28,20:00,Providencia,Pop,Billie Eilish,Smart TV,54,64.28
+2026-05-28,21:00,Maipú,Electrónica,Daft Punk,Tablet,10,93.97
+2026-05-28,22:00,Santiago Centro,Funk,"Earth, Wind & Fire",Tablet,108,86.27
+2026-05-28,22:00,La Florida,Alternativo/Latino,Mon Laferte,Smart TV,55,94.58
+2026-05-28,23:00,Maipú,Metal,Metallica,Smart TV,118,25.26
+2026-05-29,01:00,Santiago Centro,Electrónica,Calvin Harris,Tablet,68,37.82
+2026-05-29,12:00,Maipú,Alternativo/Latino,Mon Laferte,Smartphone,63,37.97
+2026-05-29,13:00,Pudahuel,Alternativo/Latino,Coldplay,Smart TV,18,42.21
+2026-05-29,14:00,Santiago Centro,Metal,Metallica,Smart TV,51,46.86
+2026-05-29,14:00,La Florida,Metal,Metallica,Smartphone,108,32.81
+2026-05-29,15:00,Maipú,Metal,Slipknot,Smart TV,117,32.22
+2026-05-29,17:00,Santiago Centro,Pop,Billie Eilish,Smart TV,51,49.22
+2026-05-29,18:00,Las Condes,Alternativo/Latino,Coldplay,Smartphone,72,91.32
+2026-05-29,19:00,Maipú,Pop,Billie Eilish,PC/Laptop,72,80.47
+2026-05-29,19:00,La Florida,Metal,Slipknot,PC/Laptop,51,89.56
+2026-05-29,19:00,La Florida,Pop,Dua Lipa,PC/Laptop,120,79.18
+2026-05-29,20:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,46,66.96
+2026-05-29,20:00,Las Condes,Electrónica,Avicii,Smart TV,63,73.63
+2026-05-29,22:00,Santiago Centro,Pop,Billie Eilish,Tablet,54,66.79
+2026-05-30,11:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,35,33.08
+2026-05-30,12:00,Providencia,Pop,The Weeknd,Tablet,113,32.69
+2026-05-30,12:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,62,46.05
+2026-05-30,13:00,Santiago Centro,Pop,Dua Lipa,Tablet,100,51.4
+2026-05-30,14:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smartphone,104,37.93
+2026-05-30,14:00,Providencia,Funk,"Earth, Wind & Fire",Tablet,103,46.08
+2026-05-30,16:00,Maipú,Metal,Iron Maiden,Smart TV,68,46.23
+2026-05-30,16:00,Maipú,Electrónica,Calvin Harris,Smartphone,28,33.05
+2026-05-30,17:00,Providencia,Alternativo/Latino,Mon Laferte,PC/Laptop,103,71.93
+2026-05-30,18:00,Pudahuel,Funk,Bruno Mars,Smart TV,64,74.01
+2026-05-30,20:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,38,76.71
+2026-05-30,20:00,La Florida,Funk,Bruno Mars,PC/Laptop,64,100.0
+2026-05-30,20:00,Providencia,Funk,Bruno Mars,PC/Laptop,74,66.88
+2026-05-30,20:00,Maipú,Funk,"Earth, Wind & Fire",Smartphone,11,68.66
+2026-05-30,23:00,Maipú,Metal,Metallica,PC/Laptop,94,45.58
+2026-05-31,00:00,La Florida,Electrónica,Avicii,Tablet,31,28.54
+2026-05-31,07:00,La Florida,Electrónica,Daft Punk,Tablet,74,46.78
+2026-05-31,09:00,Las Condes,Alternativo/Latino,Coldplay,Smart TV,98,41.45
+2026-05-31,12:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,29,42.93
+2026-05-31,15:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,36,58.81
+2026-05-31,16:00,Santiago Centro,Pop,Billie Eilish,Tablet,53,35.34
+2026-05-31,16:00,Maipú,Pop,Billie Eilish,Smart TV,82,37.88
+2026-05-31,17:00,La Florida,Pop,Billie Eilish,Smartphone,88,38.4
+2026-05-31,19:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,33,71.57
+2026-05-31,20:00,Providencia,Electrónica,Avicii,Smartphone,88,72.98
+2026-05-31,22:00,La Florida,Pop,Billie Eilish,PC/Laptop,48,62.45
+2026-06-01,01:00,La Florida,Metal,Metallica,Smart TV,118,44.05
+2026-06-01,08:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,33,48.84
+2026-06-01,10:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,115,44.09
+2026-06-01,13:00,La Florida,Metal,Metallica,Smartphone,26,25.23
+2026-06-01,17:00,Pudahuel,Pop,Billie Eilish,Tablet,86,31.49
+2026-06-01,17:00,Providencia,Pop,Billie Eilish,Tablet,91,38.66
+2026-06-01,18:00,Las Condes,Pop,Billie Eilish,Tablet,27,64.22
+2026-06-01,18:00,Maipú,Electrónica,Daft Punk,PC/Laptop,94,71.74
+2026-06-01,20:00,Pudahuel,Metal,Iron Maiden,Smartphone,40,74.19
+2026-06-01,21:00,Maipú,Pop,The Weeknd,Smart TV,79,80.01
+2026-06-01,23:00,Maipú,Alternativo/Latino,Los Bunkers,Tablet,11,45.64
+2026-06-02,00:00,Las Condes,Electrónica,Calvin Harris,Tablet,22,48.82
+2026-06-02,15:00,Santiago Centro,Pop,Billie Eilish,Smartphone,16,29.43
+2026-06-02,16:00,Maipú,Electrónica,Daft Punk,PC/Laptop,30,19.96
+2026-06-02,17:00,La Florida,Pop,Dua Lipa,Tablet,47,37.84
+2026-06-02,18:00,Pudahuel,Electrónica,Avicii,Smart TV,100,66.92
+2026-06-02,19:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,67,72.81
+2026-06-02,19:00,La Florida,Pop,Dua Lipa,Tablet,92,78.34
+2026-06-02,20:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,40,64.8
+2026-06-02,22:00,Las Condes,Funk,Bruno Mars,Smartphone,65,73.41
+2026-06-02,22:00,Las Condes,Pop,Billie Eilish,Tablet,59,75.21
+2026-06-02,22:00,La Florida,Electrónica,Avicii,Smart TV,17,77.71
+2026-06-03,02:00,Las Condes,Funk,Jamiroquai,Tablet,84,29.85
+2026-06-03,09:00,Las Condes,Funk,"Earth, Wind & Fire",PC/Laptop,10,32.81
+2026-06-03,10:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smartphone,21,24.16
+2026-06-03,16:00,Santiago Centro,Funk,Jamiroquai,Smart TV,62,44.24
+2026-06-03,16:00,La Florida,Electrónica,Avicii,Tablet,38,37.59
+2026-06-03,17:00,Providencia,Pop,Billie Eilish,Smart TV,38,37.92
+2026-06-03,18:00,Pudahuel,Electrónica,Daft Punk,Smart TV,22,77.48
+2026-06-03,20:00,Santiago Centro,Metal,Slipknot,Smartphone,86,83.39
+2026-06-03,21:00,Las Condes,Alternativo/Latino,Los Bunkers,PC/Laptop,88,79.27
+2026-06-03,22:00,Santiago Centro,Metal,Iron Maiden,Smartphone,82,66.55
+2026-06-04,11:00,Maipú,Electrónica,Daft Punk,Smart TV,74,40.69
+2026-06-04,18:00,Santiago Centro,Electrónica,Daft Punk,Smart TV,102,78.88
+2026-06-04,19:00,Providencia,Metal,Iron Maiden,PC/Laptop,87,72.73
+2026-06-05,17:00,Maipú,Metal,Iron Maiden,Smartphone,80,29.97
+2026-06-05,17:00,Maipú,Funk,"Earth, Wind & Fire",Smartphone,43,48.11
+2026-06-05,18:00,Maipú,Electrónica,Calvin Harris,Tablet,91,85.74
+2026-06-05,19:00,La Florida,Metal,Iron Maiden,Smartphone,75,73.52
+2026-06-05,19:00,La Florida,Metal,Slipknot,PC/Laptop,110,69.61
+2026-06-06,15:00,La Florida,Pop,The Weeknd,PC/Laptop,101,27.41
+2026-06-06,17:00,Santiago Centro,Metal,Iron Maiden,Smart TV,85,46.21
+2026-06-06,18:00,Providencia,Alternativo/Latino,Los Bunkers,PC/Laptop,73,75.47
+2026-06-06,18:00,Pudahuel,Electrónica,Calvin Harris,Tablet,94,78.64
+2026-06-06,19:00,Santiago Centro,Funk,Jamiroquai,Smartphone,27,62.49
+2026-06-06,19:00,La Florida,Funk,"Earth, Wind & Fire",Smart TV,21,99.55
+2026-06-06,19:00,Las Condes,Pop,The Weeknd,Smartphone,74,56.3
+2026-06-06,19:00,La Florida,Funk,Jamiroquai,Tablet,12,76.94
+2026-06-06,20:00,Providencia,Electrónica,Avicii,Smartphone,120,72.19
+2026-06-06,20:00,Santiago Centro,Alternativo/Latino,Coldplay,Tablet,31,77.0
+2026-06-06,23:00,Pudahuel,Alternativo/Latino,Mon Laferte,Tablet,116,43.56
+2026-06-07,11:00,Pudahuel,Pop,Billie Eilish,Smart TV,37,55.3
+2026-06-07,15:00,La Florida,Alternativo/Latino,Coldplay,Smartphone,109,40.93
+2026-06-07,17:00,La Florida,Electrónica,Avicii,PC/Laptop,82,36.51
+2026-06-07,17:00,La Florida,Pop,Dua Lipa,Smart TV,23,54.53
+2026-06-07,18:00,Maipú,Pop,Billie Eilish,Tablet,53,100.0
+2026-06-07,19:00,Maipú,Metal,Metallica,Smartphone,82,67.46
+2026-06-07,19:00,Las Condes,Alternativo/Latino,Mon Laferte,Smart TV,73,78.22
+2026-06-07,19:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,116,76.94
+2026-06-07,21:00,Providencia,Funk,"Earth, Wind & Fire",Tablet,71,69.49
+2026-06-07,22:00,La Florida,Electrónica,Avicii,PC/Laptop,39,76.34
+2026-06-07,23:00,Las Condes,Funk,"Earth, Wind & Fire",Smartphone,91,49.25
+2026-06-08,00:00,Las Condes,Electrónica,Avicii,Tablet,112,31.43
+2026-06-08,16:00,Pudahuel,Electrónica,Daft Punk,Smartphone,73,24.05
+2026-06-08,18:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,32,84.02
+2026-06-08,19:00,Providencia,Electrónica,Calvin Harris,Smart TV,65,81.47
+2026-06-08,20:00,Maipú,Electrónica,Daft Punk,Smart TV,98,82.18
+2026-06-08,21:00,Santiago Centro,Metal,Slipknot,Smartphone,20,81.35
+2026-06-08,22:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,59,81.17
+2026-06-08,23:00,Santiago Centro,Pop,Billie Eilish,Tablet,21,46.98
+2026-06-09,14:00,Pudahuel,Metal,Metallica,Smart TV,20,47.64
+2026-06-09,15:00,La Florida,Alternativo/Latino,Mon Laferte,PC/Laptop,22,58.12
+2026-06-09,15:00,Maipú,Funk,"Earth, Wind & Fire",Tablet,108,27.76
+2026-06-09,15:00,Santiago Centro,Pop,Dua Lipa,Tablet,119,47.91
+2026-06-09,15:00,Maipú,Metal,Iron Maiden,Smart TV,113,38.34
+2026-06-09,17:00,Santiago Centro,Pop,Billie Eilish,PC/Laptop,62,60.68
+2026-06-09,19:00,La Florida,Funk,Bruno Mars,Smartphone,119,93.76
+2026-06-09,21:00,La Florida,Alternativo/Latino,Coldplay,Smartphone,56,66.33
+2026-06-09,22:00,La Florida,Electrónica,Calvin Harris,Tablet,12,76.4
+2026-06-10,09:00,Las Condes,Electrónica,Calvin Harris,Smart TV,19,33.92
+2026-06-10,10:00,Maipú,Pop,Billie Eilish,PC/Laptop,10,50.08
+2026-06-10,11:00,La Florida,Funk,Jamiroquai,Smartphone,25,22.14
+2026-06-10,12:00,Santiago Centro,Metal,Slipknot,Smart TV,113,33.84
+2026-06-10,13:00,La Florida,Alternativo/Latino,Mon Laferte,Tablet,37,46.81
+2026-06-10,14:00,Pudahuel,Alternativo/Latino,Mon Laferte,Smart TV,69,31.13
+2026-06-10,16:00,Pudahuel,Electrónica,Daft Punk,Smart TV,32,32.27
+2026-06-10,22:00,Santiago Centro,Metal,Iron Maiden,Smartphone,70,70.92
+2026-06-10,22:00,Maipú,Alternativo/Latino,Coldplay,Smart TV,103,82.19
+2026-06-10,22:00,La Florida,Metal,Iron Maiden,Smartphone,34,95.88
+2026-06-11,10:00,La Florida,Pop,The Weeknd,Smart TV,114,45.08
+2026-06-11,12:00,La Florida,Electrónica,Daft Punk,Smartphone,65,58.31
+2026-06-11,12:00,La Florida,Pop,The Weeknd,Smart TV,88,48.3
+2026-06-11,13:00,La Florida,Funk,"Earth, Wind & Fire",Smartphone,25,16.84
+2026-06-11,16:00,Las Condes,Pop,The Weeknd,PC/Laptop,17,32.48
+2026-06-11,18:00,Pudahuel,Metal,Metallica,Smartphone,120,72.01
+2026-06-11,18:00,Santiago Centro,Metal,Slipknot,Tablet,36,85.27
+2026-06-11,19:00,Providencia,Pop,Dua Lipa,Smartphone,50,65.98
+2026-06-11,20:00,Maipú,Pop,The Weeknd,PC/Laptop,11,88.29
+2026-06-11,20:00,Pudahuel,Metal,Iron Maiden,Tablet,60,62.07
+2026-06-11,20:00,Providencia,Alternativo/Latino,Mon Laferte,Smartphone,94,78.41
+2026-06-11,20:00,Providencia,Metal,Iron Maiden,PC/Laptop,103,79.28
+2026-06-12,02:00,Pudahuel,Pop,Dua Lipa,Smart TV,36,52.08
+2026-06-12,11:00,Providencia,Funk,Bruno Mars,Tablet,29,21.2
+2026-06-12,14:00,Pudahuel,Electrónica,Calvin Harris,Smart TV,118,45.14
+2026-06-12,15:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,30,37.08
+2026-06-12,16:00,Maipú,Metal,Iron Maiden,Tablet,55,47.8
+2026-06-12,17:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smart TV,99,53.75
+2026-06-12,18:00,Pudahuel,Pop,The Weeknd,PC/Laptop,58,82.51
+2026-06-12,18:00,Las Condes,Electrónica,Daft Punk,Smart TV,105,76.11
+2026-06-12,19:00,Santiago Centro,Pop,The Weeknd,Smart TV,96,80.51
+2026-06-12,20:00,Las Condes,Funk,Bruno Mars,Smart TV,54,81.45
+2026-06-12,23:00,Santiago Centro,Metal,Iron Maiden,PC/Laptop,101,53.8
+2026-06-13,04:00,Santiago Centro,Funk,Bruno Mars,Tablet,118,24.97
+2026-06-13,09:00,Providencia,Pop,Dua Lipa,Tablet,31,48.76
+2026-06-13,14:00,Las Condes,Alternativo/Latino,Mon Laferte,PC/Laptop,57,36.91
+2026-06-13,14:00,Santiago Centro,Metal,Slipknot,Tablet,100,29.84
+2026-06-13,15:00,Las Condes,Pop,Billie Eilish,Smart TV,41,42.14
+2026-06-13,15:00,Providencia,Electrónica,Daft Punk,Smart TV,38,36.98
+2026-06-13,15:00,Santiago Centro,Electrónica,Calvin Harris,Smart TV,34,45.89
+2026-06-13,16:00,La Florida,Electrónica,Avicii,Smartphone,78,52.57
+2026-06-13,17:00,La Florida,Alternativo/Latino,Coldplay,Tablet,12,54.4
+2026-06-13,18:00,Pudahuel,Pop,Billie Eilish,PC/Laptop,58,82.43
+2026-06-13,19:00,Pudahuel,Pop,The Weeknd,Smart TV,41,73.62
+2026-06-13,19:00,Santiago Centro,Pop,The Weeknd,PC/Laptop,70,74.67
+2026-06-13,20:00,Providencia,Electrónica,Daft Punk,Tablet,12,72.97
+2026-06-13,22:00,Pudahuel,Funk,Bruno Mars,Smart TV,92,79.73
+2026-06-14,12:00,La Florida,Funk,"Earth, Wind & Fire",PC/Laptop,103,54.44
+2026-06-14,14:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,69,43.02
+2026-06-14,15:00,Maipú,Alternativo/Latino,Coldplay,Tablet,31,31.9
+2026-06-14,15:00,Santiago Centro,Metal,Metallica,PC/Laptop,30,39.63
+2026-06-14,16:00,Providencia,Electrónica,Calvin Harris,Tablet,72,30.73
+2026-06-14,17:00,Pudahuel,Pop,Dua Lipa,Tablet,64,30.44
+2026-06-14,17:00,Pudahuel,Funk,"Earth, Wind & Fire",Smart TV,26,51.03
+2026-06-14,17:00,La Florida,Funk,Bruno Mars,Smart TV,99,42.79
+2026-06-14,17:00,Maipú,Pop,Dua Lipa,PC/Laptop,90,42.15
+2026-06-14,18:00,Santiago Centro,Pop,Billie Eilish,PC/Laptop,69,71.3
+2026-06-14,20:00,Pudahuel,Metal,Slipknot,Tablet,104,89.67
+2026-06-15,02:00,Pudahuel,Metal,Iron Maiden,PC/Laptop,115,28.97
+2026-06-15,14:00,Pudahuel,Alternativo/Latino,Mon Laferte,PC/Laptop,89,33.23
+2026-06-15,15:00,Santiago Centro,Pop,Dua Lipa,Smart TV,34,28.02
+2026-06-15,15:00,La Florida,Pop,Billie Eilish,PC/Laptop,114,55.34
+2026-06-15,15:00,Pudahuel,Pop,Dua Lipa,Smart TV,30,42.11
+2026-06-15,15:00,La Florida,Metal,Metallica,Smart TV,72,50.38
+2026-06-15,16:00,Providencia,Pop,The Weeknd,Smartphone,33,39.99
+2026-06-15,17:00,Maipú,Electrónica,Calvin Harris,Smartphone,120,34.57
+2026-06-15,17:00,Las Condes,Funk,Jamiroquai,Smart TV,98,44.52
+2026-06-15,17:00,Las Condes,Pop,Dua Lipa,PC/Laptop,78,38.31
+2026-06-15,19:00,Maipú,Funk,Bruno Mars,Smart TV,75,66.73
+2026-06-15,19:00,Providencia,Electrónica,Calvin Harris,Smart TV,105,71.08
+2026-06-15,19:00,Providencia,Pop,Billie Eilish,Tablet,37,82.22
+2026-06-15,20:00,La Florida,Funk,"Earth, Wind & Fire",Tablet,23,71.29
+2026-06-15,20:00,Las Condes,Pop,The Weeknd,PC/Laptop,27,81.68
+2026-06-16,09:00,Pudahuel,Pop,Billie Eilish,PC/Laptop,117,41.86
+2026-06-16,11:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,90,39.02
+2026-06-16,13:00,Pudahuel,Funk,"Earth, Wind & Fire",Smartphone,68,23.69
+2026-06-16,14:00,La Florida,Alternativo/Latino,Coldplay,Tablet,34,26.2
+2026-06-16,16:00,La Florida,Alternativo/Latino,Coldplay,PC/Laptop,67,45.43
+2026-06-16,16:00,Las Condes,Pop,Billie Eilish,PC/Laptop,31,25.36
+2026-06-16,16:00,Las Condes,Metal,Iron Maiden,Smart TV,87,55.74
+2026-06-16,16:00,Pudahuel,Pop,The Weeknd,Smart TV,67,30.78
+2026-06-16,16:00,La Florida,Metal,Slipknot,Smartphone,21,39.34
+2026-06-16,17:00,Providencia,Metal,Iron Maiden,Smartphone,50,54.9
+2026-06-16,17:00,La Florida,Pop,Dua Lipa,Smart TV,85,34.11
+2026-06-16,18:00,Maipú,Alternativo/Latino,Los Bunkers,Smart TV,100,83.53
+2026-06-16,19:00,Maipú,Metal,Iron Maiden,PC/Laptop,21,71.67
+2026-06-16,22:00,Pudahuel,Funk,Bruno Mars,Smart TV,108,80.82
+2026-06-16,23:00,Santiago Centro,Metal,Slipknot,Tablet,21,47.11
+2026-06-17,09:00,Maipú,Electrónica,Daft Punk,Tablet,67,40.28
+2026-06-17,12:00,La Florida,Alternativo/Latino,Coldplay,PC/Laptop,104,26.78
+2026-06-17,12:00,Maipú,Alternativo/Latino,Mon Laferte,Tablet,99,26.84
+2026-06-17,14:00,Maipú,Pop,Dua Lipa,Smart TV,53,41.5
+2026-06-17,14:00,Pudahuel,Funk,Bruno Mars,Tablet,45,45.04
+2026-06-17,14:00,Pudahuel,Pop,Dua Lipa,Tablet,14,40.86
+2026-06-17,15:00,Santiago Centro,Electrónica,Daft Punk,Smart TV,65,41.06
+2026-06-17,15:00,Maipú,Metal,Slipknot,Tablet,22,38.7
+2026-06-17,16:00,Providencia,Funk,Bruno Mars,PC/Laptop,106,37.18
+2026-06-17,17:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,84,23.39
+2026-06-17,17:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,16,30.67
+2026-06-17,17:00,Maipú,Electrónica,Calvin Harris,Smart TV,23,40.77
+2026-06-17,18:00,Providencia,Funk,Bruno Mars,Tablet,28,55.4
+2026-06-17,18:00,Providencia,Electrónica,Avicii,Smartphone,76,80.51
+2026-06-17,18:00,La Florida,Electrónica,Calvin Harris,PC/Laptop,72,85.45
+2026-06-17,20:00,Pudahuel,Funk,Bruno Mars,Smartphone,41,72.45
+2026-06-17,22:00,Maipú,Electrónica,Daft Punk,Tablet,43,86.87
+2026-06-17,23:00,Santiago Centro,Metal,Metallica,Smartphone,69,34.29
+2026-06-18,01:00,La Florida,Pop,The Weeknd,Smart TV,27,51.27
+2026-06-18,10:00,La Florida,Alternativo/Latino,Los Bunkers,PC/Laptop,63,44.72
+2026-06-18,14:00,Pudahuel,Pop,Billie Eilish,PC/Laptop,14,51.21
+2026-06-18,15:00,Maipú,Metal,Metallica,PC/Laptop,108,53.21
+2026-06-18,16:00,Las Condes,Electrónica,Daft Punk,Smart TV,68,32.04
+2026-06-18,16:00,La Florida,Pop,Billie Eilish,PC/Laptop,60,36.48
+2026-06-18,16:00,Providencia,Funk,Bruno Mars,Smart TV,86,58.88
+2026-06-18,17:00,La Florida,Electrónica,Daft Punk,PC/Laptop,44,30.92
+2026-06-18,17:00,Providencia,Metal,Iron Maiden,Tablet,63,52.19
+2026-06-18,17:00,Las Condes,Pop,Dua Lipa,Smartphone,57,34.39
+2026-06-18,18:00,Maipú,Pop,Dua Lipa,Smart TV,116,67.72
+2026-06-18,19:00,Maipú,Alternativo/Latino,Los Bunkers,PC/Laptop,81,69.17
+2026-06-18,19:00,La Florida,Alternativo/Latino,Mon Laferte,Smartphone,99,62.62
+2026-06-18,19:00,Las Condes,Alternativo/Latino,Mon Laferte,Tablet,25,72.96
+2026-06-18,20:00,Santiago Centro,Funk,Jamiroquai,Smartphone,107,95.57
+2026-06-18,20:00,Pudahuel,Electrónica,Daft Punk,Tablet,51,61.65
+2026-06-18,21:00,Las Condes,Metal,Iron Maiden,Smartphone,84,66.44
+2026-06-18,21:00,Pudahuel,Metal,Iron Maiden,PC/Laptop,22,77.87
+2026-06-18,23:00,Las Condes,Electrónica,Daft Punk,Smartphone,110,31.34
+2026-06-19,02:00,Santiago Centro,Pop,The Weeknd,Tablet,33,33.94
+2026-06-19,11:00,Las Condes,Electrónica,Calvin Harris,Tablet,97,54.95
+2026-06-19,15:00,La Florida,Alternativo/Latino,Coldplay,PC/Laptop,22,50.4
+2026-06-19,16:00,Pudahuel,Metal,Metallica,Smart TV,111,16.98
+2026-06-19,16:00,La Florida,Pop,The Weeknd,Tablet,24,41.43
+2026-06-19,16:00,Pudahuel,Metal,Iron Maiden,Tablet,49,28.7
+2026-06-19,16:00,La Florida,Alternativo/Latino,Coldplay,Smart TV,42,41.7
+2026-06-19,16:00,Las Condes,Alternativo/Latino,Mon Laferte,Tablet,31,28.16
+2026-06-19,17:00,Providencia,Metal,Metallica,Smart TV,16,38.26
+2026-06-19,18:00,Providencia,Alternativo/Latino,Mon Laferte,Tablet,21,69.93
+2026-06-19,18:00,Maipú,Electrónica,Calvin Harris,Tablet,26,70.22
+2026-06-19,19:00,La Florida,Metal,Iron Maiden,Smart TV,94,74.64
+2026-06-19,19:00,La Florida,Funk,"Earth, Wind & Fire",Tablet,82,71.92
+2026-06-19,20:00,Maipú,Metal,Iron Maiden,Smart TV,118,65.79
+2026-06-19,20:00,Providencia,Metal,Metallica,Tablet,15,76.57
+2026-06-19,22:00,Las Condes,Electrónica,Daft Punk,Tablet,61,76.94
+2026-06-20,01:00,Providencia,Electrónica,Daft Punk,Smart TV,60,32.33
+2026-06-20,02:00,Providencia,Pop,Dua Lipa,Smartphone,87,55.94
+2026-06-20,10:00,Maipú,Funk,"Earth, Wind & Fire",Smart TV,51,42.13
+2026-06-20,11:00,Maipú,Pop,Billie Eilish,Tablet,51,32.37
+2026-06-20,13:00,Santiago Centro,Electrónica,Daft Punk,Tablet,18,38.1
+2026-06-20,13:00,Pudahuel,Funk,"Earth, Wind & Fire",Tablet,110,44.28
+2026-06-20,14:00,Santiago Centro,Alternativo/Latino,Coldplay,Smartphone,102,31.84
+2026-06-20,15:00,La Florida,Metal,Metallica,Smartphone,100,48.95
+2026-06-20,16:00,Las Condes,Metal,Iron Maiden,Smart TV,103,41.7
+2026-06-20,16:00,Pudahuel,Electrónica,Avicii,PC/Laptop,72,45.52
+2026-06-20,16:00,Providencia,Funk,Bruno Mars,Smart TV,119,55.91
+2026-06-20,18:00,Santiago Centro,Metal,Slipknot,Smart TV,56,64.03
+2026-06-20,18:00,Las Condes,Alternativo/Latino,Coldplay,Tablet,21,53.69
+2026-06-20,19:00,Maipú,Metal,Metallica,Tablet,75,79.75
+2026-06-21,01:00,Pudahuel,Pop,The Weeknd,Smart TV,46,43.9
+2026-06-21,07:00,Providencia,Funk,"Earth, Wind & Fire",Smart TV,34,38.09
+2026-06-21,10:00,Santiago Centro,Metal,Slipknot,Smartphone,84,42.7
+2026-06-21,14:00,Pudahuel,Alternativo/Latino,Mon Laferte,Tablet,99,38.85
+2026-06-21,16:00,La Florida,Metal,Slipknot,Tablet,116,42.01
+2026-06-21,17:00,Maipú,Metal,Metallica,Smartphone,92,30.76
+2026-06-21,17:00,Santiago Centro,Pop,Billie Eilish,PC/Laptop,118,35.48
+2026-06-21,19:00,La Florida,Electrónica,Calvin Harris,Tablet,25,90.38
+2026-06-21,19:00,Santiago Centro,Alternativo/Latino,Coldplay,PC/Laptop,80,68.22
+2026-06-21,19:00,Pudahuel,Alternativo/Latino,Coldplay,PC/Laptop,72,59.35
+2026-06-21,20:00,La Florida,Funk,"Earth, Wind & Fire",PC/Laptop,13,63.71
+2026-06-21,20:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,113,54.5
+2026-06-21,22:00,Providencia,Funk,Bruno Mars,PC/Laptop,76,68.29
+2026-06-22,00:00,Las Condes,Alternativo/Latino,Mon Laferte,Smartphone,34,39.34
+2026-06-22,10:00,La Florida,Electrónica,Calvin Harris,PC/Laptop,89,41.44
+2026-06-22,14:00,Santiago Centro,Alternativo/Latino,Los Bunkers,PC/Laptop,68,26.7
+2026-06-22,14:00,La Florida,Metal,Slipknot,PC/Laptop,76,33.09
+2026-06-22,16:00,Las Condes,Metal,Metallica,Smartphone,56,42.69
+2026-06-22,17:00,Pudahuel,Metal,Iron Maiden,Tablet,64,44.55
+2026-06-22,18:00,Santiago Centro,Alternativo/Latino,Mon Laferte,PC/Laptop,70,68.23
+2026-06-22,20:00,Pudahuel,Funk,Bruno Mars,Smart TV,111,85.81
+2026-06-22,20:00,Maipú,Funk,Bruno Mars,Smartphone,51,71.66
+2026-06-22,20:00,Santiago Centro,Pop,Billie Eilish,Tablet,56,63.62
+2026-06-23,11:00,La Florida,Funk,Jamiroquai,Smartphone,11,51.65
+2026-06-23,11:00,La Florida,Funk,Bruno Mars,Tablet,57,48.95
+2026-06-23,12:00,Santiago Centro,Alternativo/Latino,Los Bunkers,Smartphone,22,46.9
+2026-06-23,14:00,Santiago Centro,Metal,Metallica,Smart TV,39,42.55
+2026-06-23,17:00,Santiago Centro,Funk,Bruno Mars,Smartphone,22,37.96
+2026-06-23,17:00,Las Condes,Funk,Bruno Mars,Tablet,43,35.84
+2026-06-23,18:00,Providencia,Alternativo/Latino,Coldplay,Smartphone,54,90.77
+2026-06-23,18:00,Maipú,Metal,Iron Maiden,Smartphone,47,79.49
+2026-06-23,19:00,Providencia,Electrónica,Daft Punk,PC/Laptop,51,71.86
+2026-06-23,19:00,Maipú,Funk,Bruno Mars,Smartphone,53,76.31
+2026-06-23,20:00,Pudahuel,Metal,Metallica,Smart TV,49,84.55
+2026-06-23,23:00,Las Condes,Alternativo/Latino,Coldplay,Smartphone,10,46.73
+2026-06-23,23:00,Las Condes,Alternativo/Latino,Coldplay,Tablet,10,15.12
+2026-06-24,00:00,Maipú,Pop,The Weeknd,PC/Laptop,62,34.77
+2026-06-24,15:00,Santiago Centro,Electrónica,Avicii,Smartphone,80,50.49
+2026-06-24,15:00,Providencia,Alternativo/Latino,Mon Laferte,Smart TV,51,35.91
+2026-06-24,15:00,Maipú,Electrónica,Daft Punk,Smart TV,70,43.3
+2026-06-24,16:00,La Florida,Electrónica,Avicii,Tablet,34,36.91
+2026-06-24,16:00,La Florida,Funk,"Earth, Wind & Fire",Smart TV,28,23.93
+2026-06-24,17:00,Santiago Centro,Funk,Jamiroquai,Smartphone,56,33.1
+2026-06-24,17:00,Santiago Centro,Electrónica,Daft Punk,Smart TV,95,44.58
+2026-06-24,18:00,Providencia,Electrónica,Avicii,PC/Laptop,84,56.42
+2026-06-24,19:00,Maipú,Pop,The Weeknd,Smartphone,34,62.23
+2026-06-24,19:00,La Florida,Pop,Dua Lipa,Smart TV,85,73.45
+2026-06-24,22:00,Santiago Centro,Funk,Jamiroquai,Tablet,42,90.21
+2026-06-25,00:00,Maipú,Pop,The Weeknd,Smart TV,112,62.31
+2026-06-25,04:00,Providencia,Funk,Bruno Mars,PC/Laptop,113,40.59
+2026-06-25,11:00,Pudahuel,Funk,Bruno Mars,Tablet,19,42.03
+2026-06-25,11:00,Pudahuel,Pop,Billie Eilish,Tablet,58,47.6
+2026-06-25,12:00,Las Condes,Pop,The Weeknd,Smartphone,54,49.18
+2026-06-25,15:00,Providencia,Funk,Bruno Mars,Tablet,72,59.14
+2026-06-25,16:00,Maipú,Pop,The Weeknd,Smart TV,64,32.11
+2026-06-25,17:00,Pudahuel,Funk,Jamiroquai,Smart TV,45,31.49
+2026-06-25,17:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smartphone,105,49.86
+2026-06-25,17:00,Pudahuel,Electrónica,Daft Punk,Tablet,27,53.73
+2026-06-25,17:00,Las Condes,Metal,Iron Maiden,PC/Laptop,24,30.9
+2026-06-25,17:00,Las Condes,Alternativo/Latino,Mon Laferte,PC/Laptop,66,45.48
+2026-06-25,18:00,La Florida,Metal,Iron Maiden,Tablet,24,80.16
+2026-06-25,19:00,Maipú,Electrónica,Avicii,PC/Laptop,64,73.7
+2026-06-25,19:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smart TV,107,72.59
+2026-06-25,21:00,Pudahuel,Alternativo/Latino,Coldplay,Smartphone,75,87.75
+2026-06-25,22:00,La Florida,Pop,The Weeknd,Tablet,116,75.68
+2026-06-25,22:00,Santiago Centro,Alternativo/Latino,Mon Laferte,PC/Laptop,116,76.42
+2026-06-25,23:00,Providencia,Pop,Dua Lipa,PC/Laptop,24,56.41
+2026-06-26,03:00,Santiago Centro,Pop,The Weeknd,Tablet,64,25.21
+2026-06-26,07:00,Las Condes,Electrónica,Calvin Harris,Smart TV,43,41.99
+2026-06-26,14:00,Pudahuel,Electrónica,Daft Punk,PC/Laptop,105,37.75
+2026-06-26,15:00,Santiago Centro,Alternativo/Latino,Mon Laferte,Smart TV,64,38.15
+2026-06-26,15:00,Providencia,Electrónica,Avicii,PC/Laptop,114,16.1
+2026-06-26,16:00,Las Condes,Funk,Jamiroquai,PC/Laptop,35,35.86
+2026-06-26,17:00,Maipú,Funk,Bruno Mars,Tablet,118,46.82
+2026-06-26,18:00,Santiago Centro,Metal,Metallica,Smartphone,99,75.03
+2026-06-26,18:00,La Florida,Metal,Metallica,Smartphone,107,75.24
+2026-06-26,19:00,Santiago Centro,Funk,Jamiroquai,Smartphone,16,74.39
+2026-06-26,21:00,La Florida,Pop,The Weeknd,Tablet,43,79.59
+2026-06-26,21:00,Pudahuel,Funk,Jamiroquai,PC/Laptop,96,62.67
+2026-06-26,22:00,La Florida,Alternativo/Latino,Mon Laferte,Smart TV,14,74.24
+2026-06-27,04:00,Las Condes,Pop,Dua Lipa,PC/Laptop,24,28.88
+2026-06-27,11:00,Providencia,Funk,"Earth, Wind & Fire",Smart TV,84,31.97
+2026-06-27,13:00,Maipú,Funk,"Earth, Wind & Fire",PC/Laptop,60,25.36
+2026-06-27,14:00,La Florida,Metal,Metallica,PC/Laptop,24,55.19
+2026-06-27,16:00,Providencia,Alternativo/Latino,Los Bunkers,Tablet,48,32.16
+2026-06-27,17:00,Maipú,Pop,The Weeknd,Tablet,10,40.46
+2026-06-27,17:00,Pudahuel,Metal,Metallica,Tablet,17,30.18
+2026-06-27,17:00,Maipú,Electrónica,Daft Punk,Smart TV,118,27.61
+2026-06-27,19:00,Pudahuel,Electrónica,Daft Punk,Tablet,118,83.34
+2026-06-27,20:00,Pudahuel,Funk,Bruno Mars,Tablet,27,59.24
+2026-06-28,02:00,Maipú,Alternativo/Latino,Coldplay,PC/Laptop,119,32.33
+2026-06-28,12:00,Providencia,Metal,Metallica,PC/Laptop,21,57.5
+2026-06-28,14:00,Providencia,Alternativo/Latino,Coldplay,Smart TV,103,37.16
+2026-06-28,14:00,La Florida,Metal,Slipknot,Smart TV,82,32.4
+2026-06-28,15:00,Santiago Centro,Metal,Metallica,PC/Laptop,41,54.09
+2026-06-28,15:00,Pudahuel,Alternativo/Latino,Los Bunkers,Smartphone,59,26.28
+2026-06-28,15:00,Maipú,Alternativo/Latino,Coldplay,Smartphone,26,53.52
+2026-06-28,17:00,Pudahuel,Pop,Dua Lipa,Smart TV,34,31.27
+2026-06-28,18:00,Maipú,Metal,Iron Maiden,PC/Laptop,72,64.98
+2026-06-28,18:00,La Florida,Pop,Dua Lipa,Smartphone,42,90.49
+2026-06-28,19:00,Providencia,Metal,Iron Maiden,Tablet,119,88.46
+2026-06-28,21:00,Pudahuel,Metal,Metallica,Smart TV,90,53.94
+2026-06-29,00:00,Las Condes,Funk,Bruno Mars,PC/Laptop,107,57.96
+2026-06-29,15:00,Pudahuel,Funk,Jamiroquai,Tablet,38,42.32
+2026-06-29,15:00,Santiago Centro,Electrónica,Calvin Harris,Smartphone,33,47.55
+2026-06-29,15:00,Pudahuel,Funk,Bruno Mars,Tablet,18,45.21
+2026-06-29,16:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,24,37.49
+2026-06-29,16:00,Maipú,Metal,Slipknot,Smartphone,48,28.8
+2026-06-29,16:00,Providencia,Electrónica,Avicii,PC/Laptop,22,38.41
+2026-06-29,17:00,Pudahuel,Alternativo/Latino,Los Bunkers,PC/Laptop,65,54.8
+2026-06-29,17:00,La Florida,Metal,Metallica,PC/Laptop,90,43.28
+2026-06-29,17:00,La Florida,Electrónica,Calvin Harris,PC/Laptop,63,39.19
+2026-06-29,18:00,Providencia,Electrónica,Calvin Harris,Smart TV,39,81.62
+2026-06-29,18:00,Las Condes,Electrónica,Avicii,Smart TV,54,79.43
+2026-06-29,18:00,Pudahuel,Funk,"Earth, Wind & Fire",PC/Laptop,101,54.14
+2026-06-29,19:00,La Florida,Pop,Billie Eilish,PC/Laptop,60,74.71
+2026-06-29,20:00,La Florida,Electrónica,Calvin Harris,Tablet,72,79.21
+2026-06-30,12:00,Las Condes,Metal,Slipknot,Smart TV,11,34.68
+2026-06-30,13:00,Providencia,Electrónica,Daft Punk,Smartphone,80,11.28
+2026-06-30,14:00,Las Condes,Metal,Metallica,PC/Laptop,115,40.3
+2026-06-30,14:00,La Florida,Pop,The Weeknd,PC/Laptop,43,50.07
+2026-06-30,16:00,Las Condes,Alternativo/Latino,Los Bunkers,Tablet,88,39.28
+2026-06-30,16:00,Las Condes,Electrónica,Daft Punk,Smart TV,120,26.74
+2026-06-30,19:00,Santiago Centro,Pop,The Weeknd,Smartphone,17,78.34
+2026-06-30,19:00,Santiago Centro,Electrónica,Avicii,Smart TV,119,79.22
+2026-06-30,19:00,Santiago Centro,Alternativo/Latino,Mon Laferte,PC/Laptop,19,91.74
+2026-06-30,20:00,Santiago Centro,Funk,"Earth, Wind & Fire",Tablet,41,90.33
+2026-06-30,20:00,La Florida,Electrónica,Avicii,PC/Laptop,109,78.26
+2026-06-30,21:00,Las Condes,Funk,Bruno Mars,PC/Laptop,73,71.85
+2026-06-30,22:00,Providencia,Alternativo/Latino,Los Bunkers,Smartphone,68,70.08
